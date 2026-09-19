@@ -1,0 +1,20 @@
+[
+  {
+    "segment":"Consumer",
+    "sales":1170659.787,
+    "profit":136371.4463,
+    "quantity":19844
+  },
+  {
+    "segment":"Corporate",
+    "sales":715806.1348,
+    "profit":94249.64,
+    "quantity":11898
+  },
+  {
+    "segment":"Home Office",
+    "sales":440068.4325,
+    "profit":61675.7283,
+    "quantity":6912
+  }
+]

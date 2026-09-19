@@ -1,0 +1,142 @@
+[
+  {
+    "product_id":"TEC-CO-10004722",
+    "product_name":"Canon imageCLASS 2200 Advanced Copier",
+    "sales":61599.824,
+    "profit":25199.928,
+    "quantity":20
+  },
+  {
+    "product_id":"OFF-BI-10003527",
+    "product_name":"Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+    "sales":27453.384,
+    "profit":7753.039,
+    "quantity":31
+  },
+  {
+    "product_id":"TEC-MA-10002412",
+    "product_name":"Cisco TelePresence System EX90 Videoconferencing Unit",
+    "sales":22638.48,
+    "profit":-1811.0784,
+    "quantity":6
+  },
+  {
+    "product_id":"FUR-CH-10002024",
+    "product_name":"HON 5400 Series Task Chairs for Big and Tall",
+    "sales":21870.576,
+    "profit":0.0,
+    "quantity":39
+  },
+  {
+    "product_id":"OFF-BI-10001359",
+    "product_name":"GBC DocuBind TL300 Electric Binding System",
+    "sales":19823.479,
+    "profit":2233.5051,
+    "quantity":37
+  },
+  {
+    "product_id":"OFF-BI-10000545",
+    "product_name":"GBC Ibimaster 500 Manual ProClick Binding System",
+    "sales":19024.5,
+    "profit":760.98,
+    "quantity":48
+  },
+  {
+    "product_id":"TEC-CO-10001449",
+    "product_name":"Hewlett Packard LaserJet 3310 Copier",
+    "sales":18839.686,
+    "profit":6983.8836,
+    "quantity":38
+  },
+  {
+    "product_id":"TEC-MA-10001127",
+    "product_name":"HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+    "sales":18374.895,
+    "profit":4094.9766,
+    "quantity":12
+  },
+  {
+    "product_id":"OFF-BI-10004995",
+    "product_name":"GBC DocuBind P400 Electric Binding System",
+    "sales":17965.068,
+    "profit":-1878.1662,
+    "quantity":27
+  },
+  {
+    "product_id":"OFF-SU-10000151",
+    "product_name":"High Speed Automatic Electric Letter Opener",
+    "sales":17030.312,
+    "profit":-262.0048,
+    "quantity":11
+  },
+  {
+    "product_id":"TEC-MA-10000822",
+    "product_name":"Lexmark MX611dhe Monochrome Laser Printer",
+    "sales":16829.901,
+    "profit":-4589.973,
+    "quantity":18
+  },
+  {
+    "product_id":"OFF-SU-10002881",
+    "product_name":"Martin Yale Chadless Opener Electric Letter Opener",
+    "sales":16656.2,
+    "profit":-1299.1836,
+    "quantity":22
+  },
+  {
+    "product_id":"OFF-BI-10001120",
+    "product_name":"Ibico EPK-21 Electric Binding System",
+    "sales":15875.916,
+    "profit":3345.2823,
+    "quantity":13
+  },
+  {
+    "product_id":"FUR-BO-10004834",
+    "product_name":"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",
+    "sales":15610.9656,
+    "profit":-669.5448,
+    "quantity":24
+  },
+  {
+    "product_id":"TEC-MA-10001047",
+    "product_name":"3D Systems Cube Printer, 2nd Generation, Magenta",
+    "sales":14299.89,
+    "profit":3717.9714,
+    "quantity":11
+  },
+  {
+    "product_id":"TEC-PH-10001459",
+    "product_name":"Samsung Galaxy Mega 6.3",
+    "sales":13943.668,
+    "profit":1822.7566,
+    "quantity":39
+  },
+  {
+    "product_id":"FUR-TA-10003473",
+    "product_name":"Bretford Rectangular Conference Table Tops",
+    "sales":13565.5715,
+    "profit":-359.3541,
+    "quantity":53
+  },
+  {
+    "product_id":"TEC-PH-10002885",
+    "product_name":"Apple iPhone 5",
+    "sales":12996.6,
+    "profit":1611.5784,
+    "quantity":24
+  },
+  {
+    "product_id":"FUR-CH-10001215",
+    "product_name":"Global Troy Executive Leather Low-Back Tilter",
+    "sales":12975.382,
+    "profit":951.862,
+    "quantity":32
+  },
+  {
+    "product_id":"FUR-CH-10004063",
+    "product_name":"Global Deluxe High-Back Manager's Chair",
+    "sales":12325.75,
+    "profit":1970.3938,
+    "quantity":51
+  }
+]

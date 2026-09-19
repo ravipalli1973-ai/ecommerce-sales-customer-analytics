@@ -1,0 +1,20 @@
+[
+  {
+    "category":"Furniture",
+    "sales":754747.7613,
+    "profit":19729.9956,
+    "quantity":8369
+  },
+  {
+    "category":"Office Supplies",
+    "sales":731893.314,
+    "profit":126023.4434,
+    "quantity":23268
+  },
+  {
+    "category":"Technology",
+    "sales":839893.279,
+    "profit":146543.3756,
+    "quantity":7017
+  }
+]

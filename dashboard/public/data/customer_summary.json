@@ -1,0 +1,6434 @@
+[
+  {
+    "customer_id":"SM-20320",
+    "customer_name":"Sean Miller",
+    "sales":25043.05,
+    "profit":-1980.7393,
+    "quantity":50,
+    "orders":5
+  },
+  {
+    "customer_id":"TC-20980",
+    "customer_name":"Tamara Chand",
+    "sales":19052.218,
+    "profit":8981.3239,
+    "quantity":42,
+    "orders":5
+  },
+  {
+    "customer_id":"RB-19360",
+    "customer_name":"Raymond Buch",
+    "sales":15117.339,
+    "profit":6976.0959,
+    "quantity":71,
+    "orders":6
+  },
+  {
+    "customer_id":"TA-21385",
+    "customer_name":"Tom Ashbrook",
+    "sales":14595.62,
+    "profit":4703.7883,
+    "quantity":36,
+    "orders":4
+  },
+  {
+    "customer_id":"AB-10105",
+    "customer_name":"Adrian Barton",
+    "sales":14473.571,
+    "profit":5444.8055,
+    "quantity":73,
+    "orders":10
+  },
+  {
+    "customer_id":"KL-16645",
+    "customer_name":"Ken Lonsdale",
+    "sales":14175.229,
+    "profit":806.855,
+    "quantity":113,
+    "orders":12
+  },
+  {
+    "customer_id":"SC-20095",
+    "customer_name":"Sanjit Chand",
+    "sales":14142.334,
+    "profit":5757.4119,
+    "quantity":87,
+    "orders":9
+  },
+  {
+    "customer_id":"HL-15040",
+    "customer_name":"Hunter Lopez",
+    "sales":12873.298,
+    "profit":5622.4292,
+    "quantity":50,
+    "orders":6
+  },
+  {
+    "customer_id":"SE-20110",
+    "customer_name":"Sanjit Engle",
+    "sales":12209.438,
+    "profit":2650.6769,
+    "quantity":78,
+    "orders":11
+  },
+  {
+    "customer_id":"CC-12370",
+    "customer_name":"Christopher Conant",
+    "sales":12129.072,
+    "profit":2177.0493,
+    "quantity":34,
+    "orders":5
+  },
+  {
+    "customer_id":"TS-21370",
+    "customer_name":"Todd Sumrall",
+    "sales":11891.751,
+    "profit":2371.7144,
+    "quantity":59,
+    "orders":6
+  },
+  {
+    "customer_id":"GT-14710",
+    "customer_name":"Greg Tran",
+    "sales":11820.12,
+    "profit":2163.4269,
+    "quantity":106,
+    "orders":11
+  },
+  {
+    "customer_id":"BM-11140",
+    "customer_name":"Becky Martin",
+    "sales":11789.63,
+    "profit":-1659.9581,
+    "quantity":64,
+    "orders":4
+  },
+  {
+    "customer_id":"SV-20365",
+    "customer_name":"Seth Vernon",
+    "sales":11470.95,
+    "profit":1199.4242,
+    "quantity":109,
+    "orders":10
+  },
+  {
+    "customer_id":"CJ-12010",
+    "customer_name":"Caroline Jumper",
+    "sales":11164.974,
+    "profit":858.7414,
+    "quantity":83,
+    "orders":8
+  },
+  {
+    "customer_id":"CL-12565",
+    "customer_name":"Clay Ludtke",
+    "sales":10880.546,
+    "profit":1933.7831,
+    "quantity":106,
+    "orders":12
+  },
+  {
+    "customer_id":"ME-17320",
+    "customer_name":"Maria Etezadi",
+    "sales":10663.728,
+    "profit":1859.4695,
+    "quantity":82,
+    "orders":10
+  },
+  {
+    "customer_id":"KF-16285",
+    "customer_name":"Karen Ferguson",
+    "sales":10604.266,
+    "profit":1660.1386,
+    "quantity":67,
+    "orders":7
+  },
+  {
+    "customer_id":"BS-11365",
+    "customer_name":"Bill Shonely",
+    "sales":10501.653,
+    "profit":2616.0644,
+    "quantity":39,
+    "orders":5
+  },
+  {
+    "customer_id":"JE-15715",
+    "customer_name":"Joe Elijah",
+    "sales":10461.459,
+    "profit":1443.1774,
+    "quantity":129,
+    "orders":12
+  },
+  {
+    "customer_id":"EH-13765",
+    "customer_name":"Edward Hooks",
+    "sales":10310.88,
+    "profit":1393.5154,
+    "quantity":120,
+    "orders":12
+  },
+  {
+    "customer_id":"JL-15835",
+    "customer_name":"John Lee",
+    "sales":9799.923,
+    "profit":228.907,
+    "quantity":143,
+    "orders":11
+  },
+  {
+    "customer_id":"GT-14635",
+    "customer_name":"Grant Thornton",
+    "sales":9351.212,
+    "profit":-4108.6589,
+    "quantity":26,
+    "orders":3
+  },
+  {
+    "customer_id":"HW-14935",
+    "customer_name":"Helen Wasserman",
+    "sales":9300.254,
+    "profit":2164.1611,
+    "quantity":85,
+    "orders":8
+  },
+  {
+    "customer_id":"TB-21400",
+    "customer_name":"Tom Boeckenhauer",
+    "sales":9133.99,
+    "profit":2798.3689,
+    "quantity":55,
+    "orders":7
+  },
+  {
+    "customer_id":"PF-19120",
+    "customer_name":"Peter Fuller",
+    "sales":9062.864,
+    "profit":-614.2943,
+    "quantity":75,
+    "orders":4
+  },
+  {
+    "customer_id":"CM-12385",
+    "customer_name":"Christopher Martinez",
+    "sales":8954.02,
+    "profit":3899.8904,
+    "quantity":34,
+    "orders":4
+  },
+  {
+    "customer_id":"JW-15220",
+    "customer_name":"Jane Waco",
+    "sales":8846.354,
+    "profit":2530.5094,
+    "quantity":154,
+    "orders":10
+  },
+  {
+    "customer_id":"JD-16150",
+    "customer_name":"Justin Deggeller",
+    "sales":8828.0305,
+    "profit":1619.5199,
+    "quantity":60,
+    "orders":8
+  },
+  {
+    "customer_id":"LA-16780",
+    "customer_name":"Laura Armstrong",
+    "sales":8673.222,
+    "profit":2059.1199,
+    "quantity":105,
+    "orders":11
+  },
+  {
+    "customer_id":"PK-19075",
+    "customer_name":"Pete Kriz",
+    "sales":8646.934,
+    "profit":2038.2676,
+    "quantity":107,
+    "orders":12
+  },
+  {
+    "customer_id":"GG-14650",
+    "customer_name":"Greg Guthrie",
+    "sales":8584.092,
+    "profit":1415.2423,
+    "quantity":133,
+    "orders":11
+  },
+  {
+    "customer_id":"BF-11170",
+    "customer_name":"Ben Ferrer",
+    "sales":8430.144,
+    "profit":1980.3261,
+    "quantity":146,
+    "orders":13
+  },
+  {
+    "customer_id":"DR-12940",
+    "customer_name":"Daniel Raglin",
+    "sales":8350.868,
+    "profit":2869.076,
+    "quantity":57,
+    "orders":8
+  },
+  {
+    "customer_id":"NF-18385",
+    "customer_name":"Natalie Fritzler",
+    "sales":8322.826,
+    "profit":-1695.9714,
+    "quantity":52,
+    "orders":7
+  },
+  {
+    "customer_id":"KD-16270",
+    "customer_name":"Karen Daniels",
+    "sales":8282.358,
+    "profit":1107.6952,
+    "quantity":64,
+    "orders":5
+  },
+  {
+    "customer_id":"NC-18535",
+    "customer_name":"Nick Crebassa",
+    "sales":8241.739,
+    "profit":1314.758,
+    "quantity":64,
+    "orders":7
+  },
+  {
+    "customer_id":"HM-14860",
+    "customer_name":"Harry Marie",
+    "sales":8236.7648,
+    "profit":2437.9836,
+    "quantity":76,
+    "orders":10
+  },
+  {
+    "customer_id":"KD-16495",
+    "customer_name":"Keith Dawkins",
+    "sales":8181.256,
+    "profit":3038.6254,
+    "quantity":84,
+    "orders":12
+  },
+  {
+    "customer_id":"SB-20290",
+    "customer_name":"Sean Braxton",
+    "sales":8057.891,
+    "profit":-2082.7451,
+    "quantity":84,
+    "orders":7
+  },
+  {
+    "customer_id":"ZC-21910",
+    "customer_name":"Zuschuss Carroll",
+    "sales":8025.707,
+    "profit":-1032.149,
+    "quantity":105,
+    "orders":13
+  },
+  {
+    "customer_id":"JH-15985",
+    "customer_name":"Joseph Holt",
+    "sales":7954.998,
+    "profit":-644.6982,
+    "quantity":64,
+    "orders":6
+  },
+  {
+    "customer_id":"NP-18700",
+    "customer_name":"Nora Preis",
+    "sales":7903.1825,
+    "profit":631.2282,
+    "quantity":63,
+    "orders":7
+  },
+  {
+    "customer_id":"AH-10690",
+    "customer_name":"Anna H\u00e4berlin",
+    "sales":7888.294,
+    "profit":1298.0166,
+    "quantity":102,
+    "orders":12
+  },
+  {
+    "customer_id":"AB-10060",
+    "customer_name":"Adam Bellavance",
+    "sales":7755.62,
+    "profit":2054.5885,
+    "quantity":56,
+    "orders":8
+  },
+  {
+    "customer_id":"JE-15610",
+    "customer_name":"Jim Epp",
+    "sales":7754.976,
+    "profit":1623.4019,
+    "quantity":74,
+    "orders":7
+  },
+  {
+    "customer_id":"LC-16885",
+    "customer_name":"Lena Creighton",
+    "sales":7663.126,
+    "profit":1288.3469,
+    "quantity":93,
+    "orders":12
+  },
+  {
+    "customer_id":"JM-15865",
+    "customer_name":"John Murray",
+    "sales":7625.076,
+    "profit":1574.6164,
+    "quantity":50,
+    "orders":7
+  },
+  {
+    "customer_id":"JD-15895",
+    "customer_name":"Jonathan Doherty",
+    "sales":7610.864,
+    "profit":1050.2668,
+    "quantity":150,
+    "orders":11
+  },
+  {
+    "customer_id":"PO-18850",
+    "customer_name":"Patrick O'Brill",
+    "sales":7473.8282,
+    "profit":38.4757,
+    "quantity":91,
+    "orders":11
+  },
+  {
+    "customer_id":"MS-17365",
+    "customer_name":"Maribeth Schnelling",
+    "sales":7443.69,
+    "profit":844.9355,
+    "quantity":105,
+    "orders":10
+  },
+  {
+    "customer_id":"RW-19540",
+    "customer_name":"Rick Wilson",
+    "sales":7397.401,
+    "profit":1586.6273,
+    "quantity":89,
+    "orders":7
+  },
+  {
+    "customer_id":"BM-11650",
+    "customer_name":"Brian Moss",
+    "sales":7294.185,
+    "profit":2199.2781,
+    "quantity":95,
+    "orders":11
+  },
+  {
+    "customer_id":"PP-18955",
+    "customer_name":"Paul Prost",
+    "sales":7252.608,
+    "profit":1495.0854,
+    "quantity":138,
+    "orders":10
+  },
+  {
+    "customer_id":"NW-18400",
+    "customer_name":"Natalie Webber",
+    "sales":7234.014,
+    "profit":1023.123,
+    "quantity":78,
+    "orders":7
+  },
+  {
+    "customer_id":"Dp-13240",
+    "customer_name":"Dean percer",
+    "sales":7198.761,
+    "profit":333.3648,
+    "quantity":99,
+    "orders":11
+  },
+  {
+    "customer_id":"NF-18595",
+    "customer_name":"Nicole Fjeld",
+    "sales":7003.068,
+    "profit":1167.0987,
+    "quantity":103,
+    "orders":11
+  },
+  {
+    "customer_id":"FH-14365",
+    "customer_name":"Fred Hopkins",
+    "sales":6987.196,
+    "profit":2050.2826,
+    "quantity":52,
+    "orders":8
+  },
+  {
+    "customer_id":"RH-19510",
+    "customer_name":"Rick Huthwaite",
+    "sales":6979.18,
+    "profit":1289.4535,
+    "quantity":43,
+    "orders":6
+  },
+  {
+    "customer_id":"PS-19045",
+    "customer_name":"Penelope Sewall",
+    "sales":6843.634,
+    "profit":1742.7297,
+    "quantity":47,
+    "orders":7
+  },
+  {
+    "customer_id":"BB-11545",
+    "customer_name":"Brenda Bowman",
+    "sales":6765.728,
+    "profit":1015.075,
+    "quantity":83,
+    "orders":9
+  },
+  {
+    "customer_id":"JE-15745",
+    "customer_name":"Joel Eaton",
+    "sales":6760.815,
+    "profit":221.7967,
+    "quantity":90,
+    "orders":13
+  },
+  {
+    "customer_id":"YS-21880",
+    "customer_name":"Yana Sorensen",
+    "sales":6720.444,
+    "profit":1778.2923,
+    "quantity":58,
+    "orders":8
+  },
+  {
+    "customer_id":"AR-10540",
+    "customer_name":"Andy Reiter",
+    "sales":6608.448,
+    "profit":2884.6208,
+    "quantity":33,
+    "orders":6
+  },
+  {
+    "customer_id":"DR-12880",
+    "customer_name":"Dan Reichenbach",
+    "sales":6528.034,
+    "profit":1641.8613,
+    "quantity":103,
+    "orders":9
+  },
+  {
+    "customer_id":"GK-14620",
+    "customer_name":"Grace Kelly",
+    "sales":6497.27,
+    "profit":1448.5525,
+    "quantity":66,
+    "orders":9
+  },
+  {
+    "customer_id":"JA-15970",
+    "customer_name":"Joseph Airdo",
+    "sales":6491.026,
+    "profit":-819.4217,
+    "quantity":87,
+    "orders":8
+  },
+  {
+    "customer_id":"NM-18445",
+    "customer_name":"Nathan Mautz",
+    "sales":6459.344,
+    "profit":2751.6849,
+    "quantity":44,
+    "orders":7
+  },
+  {
+    "customer_id":"VD-21670",
+    "customer_name":"Valerie Dominguez",
+    "sales":6442.254,
+    "profit":1617.7874,
+    "quantity":71,
+    "orders":6
+  },
+  {
+    "customer_id":"SB-20185",
+    "customer_name":"Sarah Brown",
+    "sales":6410.996,
+    "profit":885.4624,
+    "quantity":45,
+    "orders":6
+  },
+  {
+    "customer_id":"JG-15160",
+    "customer_name":"James Galang",
+    "sales":6366.392,
+    "profit":1415.6664,
+    "quantity":70,
+    "orders":11
+  },
+  {
+    "customer_id":"DM-13015",
+    "customer_name":"Darrin Martin",
+    "sales":6345.103,
+    "profit":1677.3931,
+    "quantity":87,
+    "orders":7
+  },
+  {
+    "customer_id":"CM-12655",
+    "customer_name":"Corinna Mitchell",
+    "sales":6339.5576,
+    "profit":1572.4585,
+    "quantity":42,
+    "orders":6
+  },
+  {
+    "customer_id":"WB-21850",
+    "customer_name":"William Brown",
+    "sales":6327.268,
+    "profit":692.3908,
+    "quantity":154,
+    "orders":13
+  },
+  {
+    "customer_id":"MJ-17740",
+    "customer_name":"Max Jones",
+    "sales":6320.746,
+    "profit":1054.5529,
+    "quantity":50,
+    "orders":7
+  },
+  {
+    "customer_id":"BH-11710",
+    "customer_name":"Brosina Hoffman",
+    "sales":6255.351,
+    "profit":802.7898,
+    "quantity":97,
+    "orders":8
+  },
+  {
+    "customer_id":"RL-19615",
+    "customer_name":"Rob Lucas",
+    "sales":6234.91,
+    "profit":488.1484,
+    "quantity":101,
+    "orders":8
+  },
+  {
+    "customer_id":"VW-21775",
+    "customer_name":"Victoria Wilson",
+    "sales":6134.038,
+    "profit":-874.6645,
+    "quantity":77,
+    "orders":10
+  },
+  {
+    "customer_id":"SD-20485",
+    "customer_name":"Shirley Daniels",
+    "sales":6121.114,
+    "profit":1985.1672,
+    "quantity":82,
+    "orders":9
+  },
+  {
+    "customer_id":"QJ-19255",
+    "customer_name":"Quincy Jones",
+    "sales":6108.338,
+    "profit":1203.6768,
+    "quantity":61,
+    "orders":9
+  },
+  {
+    "customer_id":"AD-10180",
+    "customer_name":"Alan Dominguez",
+    "sales":6106.88,
+    "profit":1869.9294,
+    "quantity":40,
+    "orders":8
+  },
+  {
+    "customer_id":"CB-12025",
+    "customer_name":"Cassandra Brandow",
+    "sales":6076.139,
+    "profit":150.2089,
+    "quantity":122,
+    "orders":10
+  },
+  {
+    "customer_id":"GM-14695",
+    "customer_name":"Greg Maxwell",
+    "sales":6049.966,
+    "profit":188.7235,
+    "quantity":44,
+    "orders":3
+  },
+  {
+    "customer_id":"SC-20380",
+    "customer_name":"Shahid Collister",
+    "sales":5992.536,
+    "profit":236.6615,
+    "quantity":80,
+    "orders":9
+  },
+  {
+    "customer_id":"KH-16690",
+    "customer_name":"Kristen Hastings",
+    "sales":5990.799,
+    "profit":1227.5091,
+    "quantity":69,
+    "orders":7
+  },
+  {
+    "customer_id":"RM-19675",
+    "customer_name":"Robert Marley",
+    "sales":5979.096,
+    "profit":1902.5438,
+    "quantity":39,
+    "orders":5
+  },
+  {
+    "customer_id":"KH-16510",
+    "customer_name":"Keith Herrera",
+    "sales":5952.859,
+    "profit":656.1162,
+    "quantity":91,
+    "orders":7
+  },
+  {
+    "customer_id":"CP-12340",
+    "customer_name":"Christine Phan",
+    "sales":5888.275,
+    "profit":-1850.3029,
+    "quantity":59,
+    "orders":8
+  },
+  {
+    "customer_id":"BD-11320",
+    "customer_name":"Bill Donatelli",
+    "sales":5718.521,
+    "profit":1094.5037,
+    "quantity":75,
+    "orders":12
+  },
+  {
+    "customer_id":"SM-20950",
+    "customer_name":"Suzanne McNair",
+    "sales":5695.79,
+    "profit":610.1142,
+    "quantity":103,
+    "orders":14
+  },
+  {
+    "customer_id":"CS-12505",
+    "customer_name":"Cindy Stewart",
+    "sales":5690.055,
+    "profit":-6626.3895,
+    "quantity":40,
+    "orders":6
+  },
+  {
+    "customer_id":"AM-10705",
+    "customer_name":"Anne McFarland",
+    "sales":5664.022,
+    "profit":1085.7326,
+    "quantity":81,
+    "orders":8
+  },
+  {
+    "customer_id":"RB-19795",
+    "customer_name":"Ross Baird",
+    "sales":5633.316,
+    "profit":-461.7332,
+    "quantity":92,
+    "orders":8
+  },
+  {
+    "customer_id":"KM-16375",
+    "customer_name":"Katherine Murray",
+    "sales":5620.186,
+    "profit":973.7902,
+    "quantity":69,
+    "orders":8
+  },
+  {
+    "customer_id":"AA-10315",
+    "customer_name":"Alex Avila",
+    "sales":5563.56,
+    "profit":-362.8825,
+    "quantity":30,
+    "orders":5
+  },
+  {
+    "customer_id":"NP-18325",
+    "customer_name":"Naresj Patel",
+    "sales":5529.62,
+    "profit":1208.889,
+    "quantity":77,
+    "orders":6
+  },
+  {
+    "customer_id":"AC-10450",
+    "customer_name":"Amy Cox",
+    "sales":5527.846,
+    "profit":1366.0098,
+    "quantity":43,
+    "orders":7
+  },
+  {
+    "customer_id":"MH-18115",
+    "customer_name":"Mick Hernandez",
+    "sales":5503.093,
+    "profit":170.9746,
+    "quantity":79,
+    "orders":9
+  },
+  {
+    "customer_id":"DP-13390",
+    "customer_name":"Dennis Pardue",
+    "sales":5480.724,
+    "profit":1571.8318,
+    "quantity":50,
+    "orders":9
+  },
+  {
+    "customer_id":"EP-13915",
+    "customer_name":"Emily Phan",
+    "sales":5478.0608,
+    "profit":144.9578,
+    "quantity":124,
+    "orders":17
+  },
+  {
+    "customer_id":"YC-21895",
+    "customer_name":"Yoseph Carroll",
+    "sales":5454.35,
+    "profit":1305.629,
+    "quantity":31,
+    "orders":5
+  },
+  {
+    "customer_id":"SP-20620",
+    "customer_name":"Stefania Perrino",
+    "sales":5440.319,
+    "profit":-270.4282,
+    "quantity":77,
+    "orders":9
+  },
+  {
+    "customer_id":"LW-17215",
+    "customer_name":"Luke Weiss",
+    "sales":5420.514,
+    "profit":837.2411,
+    "quantity":59,
+    "orders":7
+  },
+  {
+    "customer_id":"CP-12085",
+    "customer_name":"Cathy Prescott",
+    "sales":5402.254,
+    "profit":427.0258,
+    "quantity":57,
+    "orders":8
+  },
+  {
+    "customer_id":"TS-21205",
+    "customer_name":"Thomas Seio",
+    "sales":5371.09,
+    "profit":862.8877,
+    "quantity":67,
+    "orders":7
+  },
+  {
+    "customer_id":"TT-21460",
+    "customer_name":"Tonja Turnell",
+    "sales":5364.808,
+    "profit":1124.4999,
+    "quantity":48,
+    "orders":7
+  },
+  {
+    "customer_id":"MW-18220",
+    "customer_name":"Mitch Webber",
+    "sales":5341.9,
+    "profit":1238.422,
+    "quantity":51,
+    "orders":7
+  },
+  {
+    "customer_id":"TP-21415",
+    "customer_name":"Tom Prescott",
+    "sales":5329.0048,
+    "profit":-1087.3898,
+    "quantity":39,
+    "orders":5
+  },
+  {
+    "customer_id":"TW-21025",
+    "customer_name":"Tamara Willingham",
+    "sales":5278.826,
+    "profit":737.3905,
+    "quantity":57,
+    "orders":7
+  },
+  {
+    "customer_id":"DW-13480",
+    "customer_name":"Dianna Wilson",
+    "sales":5271.628,
+    "profit":1348.7556,
+    "quantity":38,
+    "orders":5
+  },
+  {
+    "customer_id":"MW-18235",
+    "customer_name":"Mitch Willingham",
+    "sales":5253.876,
+    "profit":1665.516,
+    "quantity":13,
+    "orders":2
+  },
+  {
+    "customer_id":"HR-14830",
+    "customer_name":"Harold Ryan",
+    "sales":5248.787,
+    "profit":1196.9504,
+    "quantity":51,
+    "orders":7
+  },
+  {
+    "customer_id":"SC-20725",
+    "customer_name":"Steven Cartwright",
+    "sales":5226.21,
+    "profit":1276.6513,
+    "quantity":133,
+    "orders":11
+  },
+  {
+    "customer_id":"RP-19390",
+    "customer_name":"Resi P\u00f6lking",
+    "sales":5153.084,
+    "profit":465.2503,
+    "quantity":88,
+    "orders":12
+  },
+  {
+    "customer_id":"LR-16915",
+    "customer_name":"Lena Radford",
+    "sales":5142.892,
+    "profit":535.4764,
+    "quantity":64,
+    "orders":6
+  },
+  {
+    "customer_id":"MP-18175",
+    "customer_name":"Mike Pelletier",
+    "sales":5087.92,
+    "profit":226.4529,
+    "quantity":78,
+    "orders":9
+  },
+  {
+    "customer_id":"AA-10645",
+    "customer_name":"Anna Andreadi",
+    "sales":5086.935,
+    "profit":857.8033,
+    "quantity":64,
+    "orders":6
+  },
+  {
+    "customer_id":"IL-15100",
+    "customer_name":"Ivan Liston",
+    "sales":5040.736,
+    "profit":1121.937,
+    "quantity":60,
+    "orders":7
+  },
+  {
+    "customer_id":"KL-16555",
+    "customer_name":"Kelly Lampkin",
+    "sales":5016.488,
+    "profit":-182.7813,
+    "quantity":84,
+    "orders":8
+  },
+  {
+    "customer_id":"LB-16795",
+    "customer_name":"Laurel Beltran",
+    "sales":4985.676,
+    "profit":-52.191,
+    "quantity":76,
+    "orders":8
+  },
+  {
+    "customer_id":"DH-13075",
+    "customer_name":"Dave Hallsten",
+    "sales":4932.872,
+    "profit":1193.7404,
+    "quantity":81,
+    "orders":6
+  },
+  {
+    "customer_id":"IM-15070",
+    "customer_name":"Irene Maddox",
+    "sales":4930.474,
+    "profit":514.6527,
+    "quantity":93,
+    "orders":7
+  },
+  {
+    "customer_id":"TT-21070",
+    "customer_name":"Ted Trevino",
+    "sales":4915.602,
+    "profit":751.9567,
+    "quantity":66,
+    "orders":7
+  },
+  {
+    "customer_id":"KM-16720",
+    "customer_name":"Kunst Miller",
+    "sales":4909.472,
+    "profit":745.7685,
+    "quantity":98,
+    "orders":8
+  },
+  {
+    "customer_id":"PO-19180",
+    "customer_name":"Philisse Overcash",
+    "sales":4893.043,
+    "profit":1155.4331,
+    "quantity":65,
+    "orders":9
+  },
+  {
+    "customer_id":"HK-14890",
+    "customer_name":"Heather Kirkland",
+    "sales":4877.784,
+    "profit":956.9451,
+    "quantity":64,
+    "orders":8
+  },
+  {
+    "customer_id":"AJ-10780",
+    "customer_name":"Anthony Jacobs",
+    "sales":4867.344,
+    "profit":150.713,
+    "quantity":62,
+    "orders":7
+  },
+  {
+    "customer_id":"JK-15730",
+    "customer_name":"Joe Kamberova",
+    "sales":4867.2,
+    "profit":55.0483,
+    "quantity":88,
+    "orders":10
+  },
+  {
+    "customer_id":"AH-10210",
+    "customer_name":"Alan Hwang",
+    "sales":4805.344,
+    "profit":1308.5546,
+    "quantity":53,
+    "orders":9
+  },
+  {
+    "customer_id":"DK-13225",
+    "customer_name":"Dean Katz",
+    "sales":4802.394,
+    "profit":209.8994,
+    "quantity":70,
+    "orders":9
+  },
+  {
+    "customer_id":"RA-19915",
+    "customer_name":"Russell Applegate",
+    "sales":4793.543,
+    "profit":304.8673,
+    "quantity":75,
+    "orders":9
+  },
+  {
+    "customer_id":"SA-20830",
+    "customer_name":"Sue Ann Reed",
+    "sales":4767.3415,
+    "profit":610.1496,
+    "quantity":75,
+    "orders":10
+  },
+  {
+    "customer_id":"JK-15640",
+    "customer_name":"Jim Kriz",
+    "sales":4760.434,
+    "profit":1172.5303,
+    "quantity":41,
+    "orders":9
+  },
+  {
+    "customer_id":"BW-11110",
+    "customer_name":"Bart Watters",
+    "sales":4750.358,
+    "profit":921.2574,
+    "quantity":74,
+    "orders":8
+  },
+  {
+    "customer_id":"TB-21520",
+    "customer_name":"Tracy Blumstein",
+    "sales":4737.486,
+    "profit":-1603.0451,
+    "quantity":85,
+    "orders":9
+  },
+  {
+    "customer_id":"GB-14575",
+    "customer_name":"Giulietta Baptist",
+    "sales":4716.288,
+    "profit":1135.8393,
+    "quantity":63,
+    "orders":5
+  },
+  {
+    "customer_id":"RB-19465",
+    "customer_name":"Rick Bensley",
+    "sales":4715.466,
+    "profit":640.5466,
+    "quantity":85,
+    "orders":12
+  },
+  {
+    "customer_id":"ES-14080",
+    "customer_name":"Erin Smith",
+    "sales":4657.924,
+    "profit":246.6661,
+    "quantity":77,
+    "orders":9
+  },
+  {
+    "customer_id":"DB-13270",
+    "customer_name":"Deborah Brumfield",
+    "sales":4655.897,
+    "profit":841.8264,
+    "quantity":52,
+    "orders":8
+  },
+  {
+    "customer_id":"KT-16480",
+    "customer_name":"Kean Thornton",
+    "sales":4642.0884,
+    "profit":194.0671,
+    "quantity":37,
+    "orders":10
+  },
+  {
+    "customer_id":"SC-20050",
+    "customer_name":"Sample Company A",
+    "sales":4624.572,
+    "profit":1011.7443,
+    "quantity":61,
+    "orders":9
+  },
+  {
+    "customer_id":"CC-12430",
+    "customer_name":"Chuck Clark",
+    "sales":4606.952,
+    "profit":314.2227,
+    "quantity":83,
+    "orders":12
+  },
+  {
+    "customer_id":"EM-14140",
+    "customer_name":"Eugene Moren",
+    "sales":4588.436,
+    "profit":1319.3655,
+    "quantity":74,
+    "orders":6
+  },
+  {
+    "customer_id":"DB-13060",
+    "customer_name":"Dave Brooks",
+    "sales":4531.646,
+    "profit":473.0272,
+    "quantity":48,
+    "orders":7
+  },
+  {
+    "customer_id":"AR-10825",
+    "customer_name":"Anthony Rawles",
+    "sales":4523.336,
+    "profit":494.8352,
+    "quantity":54,
+    "orders":8
+  },
+  {
+    "customer_id":"AG-10900",
+    "customer_name":"Arthur Gainer",
+    "sales":4510.797,
+    "profit":343.6824,
+    "quantity":92,
+    "orders":10
+  },
+  {
+    "customer_id":"CT-11995",
+    "customer_name":"Carol Triggs",
+    "sales":4503.618,
+    "profit":400.8581,
+    "quantity":104,
+    "orders":11
+  },
+  {
+    "customer_id":"AJ-10795",
+    "customer_name":"Anthony Johnson",
+    "sales":4501.391,
+    "profit":1158.7064,
+    "quantity":88,
+    "orders":7
+  },
+  {
+    "customer_id":"LC-16930",
+    "customer_name":"Linda Cazamias",
+    "sales":4492.946,
+    "profit":288.266,
+    "quantity":52,
+    "orders":8
+  },
+  {
+    "customer_id":"SC-20770",
+    "customer_name":"Stewart Carmichael",
+    "sales":4492.657,
+    "profit":-671.1874,
+    "quantity":75,
+    "orders":7
+  },
+  {
+    "customer_id":"TP-21130",
+    "customer_name":"Theone Pippenger",
+    "sales":4454.056,
+    "profit":1129.1261,
+    "quantity":55,
+    "orders":9
+  },
+  {
+    "customer_id":"MC-17425",
+    "customer_name":"Mark Cousins",
+    "sales":4432.138,
+    "profit":1802.3903,
+    "quantity":48,
+    "orders":5
+  },
+  {
+    "customer_id":"JK-15205",
+    "customer_name":"Jamie Kunitz",
+    "sales":4427.142,
+    "profit":1219.983,
+    "quantity":67,
+    "orders":5
+  },
+  {
+    "customer_id":"KW-16435",
+    "customer_name":"Katrina Willman",
+    "sales":4416.52,
+    "profit":1756.135,
+    "quantity":42,
+    "orders":5
+  },
+  {
+    "customer_id":"BD-11500",
+    "customer_name":"Bradley Drucker",
+    "sales":4411.243,
+    "profit":1142.1225,
+    "quantity":49,
+    "orders":6
+  },
+  {
+    "customer_id":"AI-10855",
+    "customer_name":"Arianne Irving",
+    "sales":4375.786,
+    "profit":867.7271,
+    "quantity":72,
+    "orders":10
+  },
+  {
+    "customer_id":"SC-20230",
+    "customer_name":"Scot Coram",
+    "sales":4371.958,
+    "profit":440.141,
+    "quantity":49,
+    "orders":4
+  },
+  {
+    "customer_id":"EB-13840",
+    "customer_name":"Ellis Ballard",
+    "sales":4358.128,
+    "profit":656.1988,
+    "quantity":41,
+    "orders":5
+  },
+  {
+    "customer_id":"GZ-14470",
+    "customer_name":"Gary Zandusky",
+    "sales":4355.15,
+    "profit":1087.7539,
+    "quantity":48,
+    "orders":9
+  },
+  {
+    "customer_id":"SR-20740",
+    "customer_name":"Steven Roelle",
+    "sales":4345.886,
+    "profit":1990.4244,
+    "quantity":50,
+    "orders":8
+  },
+  {
+    "customer_id":"ND-18370",
+    "customer_name":"Natalie DeCherney",
+    "sales":4326.139,
+    "profit":353.6455,
+    "quantity":63,
+    "orders":9
+  },
+  {
+    "customer_id":"MA-17560",
+    "customer_name":"Matt Abelman",
+    "sales":4299.161,
+    "profit":1240.2266,
+    "quantity":117,
+    "orders":11
+  },
+  {
+    "customer_id":"SP-20860",
+    "customer_name":"Sung Pak",
+    "sales":4282.94,
+    "profit":566.7226,
+    "quantity":80,
+    "orders":10
+  },
+  {
+    "customer_id":"DK-12895",
+    "customer_name":"Dana Kaydos",
+    "sales":4282.176,
+    "profit":937.6496,
+    "quantity":65,
+    "orders":5
+  },
+  {
+    "customer_id":"RD-19480",
+    "customer_name":"Rick Duston",
+    "sales":4272.93,
+    "profit":480.594,
+    "quantity":60,
+    "orders":8
+  },
+  {
+    "customer_id":"TC-21295",
+    "customer_name":"Toby Carlisle",
+    "sales":4266.812,
+    "profit":606.3727,
+    "quantity":63,
+    "orders":8
+  },
+  {
+    "customer_id":"AS-10225",
+    "customer_name":"Alan Schoenberger",
+    "sales":4260.784,
+    "profit":719.7751,
+    "quantity":41,
+    "orders":5
+  },
+  {
+    "customer_id":"FH-14275",
+    "customer_name":"Frank Hawley",
+    "sales":4256.272,
+    "profit":1073.2676,
+    "quantity":65,
+    "orders":10
+  },
+  {
+    "customer_id":"CB-12535",
+    "customer_name":"Claudia Bergmann",
+    "sales":4246.4555,
+    "profit":1049.5601,
+    "quantity":74,
+    "orders":8
+  },
+  {
+    "customer_id":"TH-21550",
+    "customer_name":"Tracy Hopkins",
+    "sales":4234.096,
+    "profit":-571.9678,
+    "quantity":44,
+    "orders":7
+  },
+  {
+    "customer_id":"BE-11335",
+    "customer_name":"Bill Eplett",
+    "sales":4204.676,
+    "profit":1487.7739,
+    "quantity":35,
+    "orders":5
+  },
+  {
+    "customer_id":"MP-17965",
+    "customer_name":"Michael Paige",
+    "sales":4198.826,
+    "profit":666.4858,
+    "quantity":74,
+    "orders":11
+  },
+  {
+    "customer_id":"JF-15565",
+    "customer_name":"Jill Fjeld",
+    "sales":4198.332,
+    "profit":1073.2088,
+    "quantity":67,
+    "orders":8
+  },
+  {
+    "customer_id":"GH-14425",
+    "customer_name":"Gary Hwang",
+    "sales":4172.846,
+    "profit":1176.4181,
+    "quantity":51,
+    "orders":4
+  },
+  {
+    "customer_id":"RS-19765",
+    "customer_name":"Roland Schwarz",
+    "sales":4159.77,
+    "profit":1206.3851,
+    "quantity":54,
+    "orders":8
+  },
+  {
+    "customer_id":"MY-18295",
+    "customer_name":"Muhammed Yedwab",
+    "sales":4152.696,
+    "profit":-371.7111,
+    "quantity":89,
+    "orders":11
+  },
+  {
+    "customer_id":"PM-19135",
+    "customer_name":"Peter McVee",
+    "sales":4115.662,
+    "profit":526.7537,
+    "quantity":36,
+    "orders":4
+  },
+  {
+    "customer_id":"SV-20785",
+    "customer_name":"Stewart Visinsky",
+    "sales":4105.305,
+    "profit":485.0272,
+    "quantity":91,
+    "orders":9
+  },
+  {
+    "customer_id":"DM-13345",
+    "customer_name":"Denise Monton",
+    "sales":4074.472,
+    "profit":1319.0586,
+    "quantity":41,
+    "orders":8
+  },
+  {
+    "customer_id":"FP-14320",
+    "customer_name":"Frank Preis",
+    "sales":4046.746,
+    "profit":406.4473,
+    "quantity":54,
+    "orders":8
+  },
+  {
+    "customer_id":"SP-20920",
+    "customer_name":"Susan Pistek",
+    "sales":3990.689,
+    "profit":14.6924,
+    "quantity":57,
+    "orders":6
+  },
+  {
+    "customer_id":"CM-12715",
+    "customer_name":"Craig Molinari",
+    "sales":3984.4524,
+    "profit":176.3108,
+    "quantity":57,
+    "orders":4
+  },
+  {
+    "customer_id":"SC-20305",
+    "customer_name":"Sean Christensen",
+    "sales":3979.065,
+    "profit":229.1617,
+    "quantity":64,
+    "orders":7
+  },
+  {
+    "customer_id":"SJ-20125",
+    "customer_name":"Sanjit Jacobs",
+    "sales":3949.656,
+    "profit":144.1189,
+    "quantity":104,
+    "orders":12
+  },
+  {
+    "customer_id":"LF-17185",
+    "customer_name":"Luke Foster",
+    "sales":3930.509,
+    "profit":-3583.977,
+    "quantity":69,
+    "orders":7
+  },
+  {
+    "customer_id":"PW-19240",
+    "customer_name":"Pierre Wener",
+    "sales":3922.415,
+    "profit":1290.354,
+    "quantity":39,
+    "orders":7
+  },
+  {
+    "customer_id":"GA-14515",
+    "customer_name":"George Ashbrook",
+    "sales":3919.776,
+    "profit":840.899,
+    "quantity":48,
+    "orders":8
+  },
+  {
+    "customer_id":"KH-16630",
+    "customer_name":"Ken Heidel",
+    "sales":3918.966,
+    "profit":727.3786,
+    "quantity":84,
+    "orders":9
+  },
+  {
+    "customer_id":"CC-12220",
+    "customer_name":"Chris Cortes",
+    "sales":3913.418,
+    "profit":393.9618,
+    "quantity":81,
+    "orders":12
+  },
+  {
+    "customer_id":"DB-13555",
+    "customer_name":"Dorothy Badders",
+    "sales":3908.8028,
+    "profit":109.327,
+    "quantity":61,
+    "orders":7
+  },
+  {
+    "customer_id":"NP-18670",
+    "customer_name":"Nora Paige",
+    "sales":3908.402,
+    "profit":514.6002,
+    "quantity":46,
+    "orders":5
+  },
+  {
+    "customer_id":"KC-16540",
+    "customer_name":"Kelly Collister",
+    "sales":3908.262,
+    "profit":709.4219,
+    "quantity":28,
+    "orders":4
+  },
+  {
+    "customer_id":"FC-14335",
+    "customer_name":"Fred Chung",
+    "sales":3889.366,
+    "profit":714.2926,
+    "quantity":37,
+    "orders":7
+  },
+  {
+    "customer_id":"BS-11380",
+    "customer_name":"Bill Stewart",
+    "sales":3887.834,
+    "profit":-17.5322,
+    "quantity":58,
+    "orders":5
+  },
+  {
+    "customer_id":"JS-15880",
+    "customer_name":"John Stevenson",
+    "sales":3868.02,
+    "profit":564.9798,
+    "quantity":43,
+    "orders":5
+  },
+  {
+    "customer_id":"RA-19885",
+    "customer_name":"Ruben Ausman",
+    "sales":3832.314,
+    "profit":1292.8656,
+    "quantity":53,
+    "orders":7
+  },
+  {
+    "customer_id":"AT-10735",
+    "customer_name":"Annie Thurman",
+    "sales":3831.864,
+    "profit":974.107,
+    "quantity":60,
+    "orders":10
+  },
+  {
+    "customer_id":"OT-18730",
+    "customer_name":"Olvera Toch",
+    "sales":3818.624,
+    "profit":-925.1203,
+    "quantity":51,
+    "orders":5
+  },
+  {
+    "customer_id":"RO-19780",
+    "customer_name":"Rose O'Brian",
+    "sales":3815.478,
+    "profit":-1262.5716,
+    "quantity":48,
+    "orders":7
+  },
+  {
+    "customer_id":"MC-17845",
+    "customer_name":"Michael Chen",
+    "sales":3805.714,
+    "profit":698.4174,
+    "quantity":45,
+    "orders":7
+  },
+  {
+    "customer_id":"MM-17920",
+    "customer_name":"Michael Moore",
+    "sales":3794.08,
+    "profit":82.125,
+    "quantity":68,
+    "orders":11
+  },
+  {
+    "customer_id":"CA-11965",
+    "customer_name":"Carol Adams",
+    "sales":3789.7228,
+    "profit":1143.3817,
+    "quantity":29,
+    "orders":6
+  },
+  {
+    "customer_id":"MG-17650",
+    "customer_name":"Matthew Grinstein",
+    "sales":3785.276,
+    "profit":341.898,
+    "quantity":57,
+    "orders":7
+  },
+  {
+    "customer_id":"MD-17350",
+    "customer_name":"Maribeth Dona",
+    "sales":3766.382,
+    "profit":-241.95,
+    "quantity":64,
+    "orders":7
+  },
+  {
+    "customer_id":"JK-15625",
+    "customer_name":"Jim Karlsson",
+    "sales":3760.028,
+    "profit":750.9485,
+    "quantity":44,
+    "orders":7
+  },
+  {
+    "customer_id":"SC-20260",
+    "customer_name":"Scott Cohen",
+    "sales":3756.513,
+    "profit":679.0074,
+    "quantity":71,
+    "orders":12
+  },
+  {
+    "customer_id":"JK-16090",
+    "customer_name":"Juliana Krohn",
+    "sales":3747.668,
+    "profit":586.6625,
+    "quantity":43,
+    "orders":3
+  },
+  {
+    "customer_id":"FM-14290",
+    "customer_name":"Frank Merwin",
+    "sales":3736.198,
+    "profit":198.1095,
+    "quantity":79,
+    "orders":9
+  },
+  {
+    "customer_id":"HG-15025",
+    "customer_name":"Hunter Glantz",
+    "sales":3690.284,
+    "profit":804.6113,
+    "quantity":38,
+    "orders":7
+  },
+  {
+    "customer_id":"BP-11185",
+    "customer_name":"Ben Peterman",
+    "sales":3675.861,
+    "profit":363.5991,
+    "quantity":69,
+    "orders":9
+  },
+  {
+    "customer_id":"DB-13405",
+    "customer_name":"Denny Blanton",
+    "sales":3674.684,
+    "profit":1221.0182,
+    "quantity":100,
+    "orders":8
+  },
+  {
+    "customer_id":"LP-17095",
+    "customer_name":"Liz Preis",
+    "sales":3653.399,
+    "profit":338.4454,
+    "quantity":52,
+    "orders":7
+  },
+  {
+    "customer_id":"CS-12400",
+    "customer_name":"Christopher Schild",
+    "sales":3651.8585,
+    "profit":-342.8033,
+    "quantity":47,
+    "orders":9
+  },
+  {
+    "customer_id":"EB-13705",
+    "customer_name":"Ed Braxton",
+    "sales":3644.978,
+    "profit":13.6215,
+    "quantity":55,
+    "orders":9
+  },
+  {
+    "customer_id":"JP-15520",
+    "customer_name":"Jeremy Pistek",
+    "sales":3635.594,
+    "profit":757.1802,
+    "quantity":63,
+    "orders":7
+  },
+  {
+    "customer_id":"SZ-20035",
+    "customer_name":"Sam Zeldin",
+    "sales":3625.329,
+    "profit":366.4303,
+    "quantity":69,
+    "orders":11
+  },
+  {
+    "customer_id":"RH-19495",
+    "customer_name":"Rick Hansen",
+    "sales":3621.376,
+    "profit":563.7877,
+    "quantity":38,
+    "orders":5
+  },
+  {
+    "customer_id":"TB-21175",
+    "customer_name":"Thomas Boland",
+    "sales":3589.296,
+    "profit":829.1635,
+    "quantity":36,
+    "orders":4
+  },
+  {
+    "customer_id":"GM-14440",
+    "customer_name":"Gary McGarr",
+    "sales":3582.82,
+    "profit":347.266,
+    "quantity":43,
+    "orders":7
+  },
+  {
+    "customer_id":"DL-13495",
+    "customer_name":"Dionis Lloyd",
+    "sales":3539.322,
+    "profit":-52.788,
+    "quantity":33,
+    "orders":8
+  },
+  {
+    "customer_id":"ES-14020",
+    "customer_name":"Erica Smith",
+    "sales":3510.458,
+    "profit":1003.2935,
+    "quantity":31,
+    "orders":5
+  },
+  {
+    "customer_id":"RW-19690",
+    "customer_name":"Robert Waldorf",
+    "sales":3495.646,
+    "profit":707.5503,
+    "quantity":61,
+    "orders":5
+  },
+  {
+    "customer_id":"AG-10675",
+    "customer_name":"Anna Gayman",
+    "sales":3489.0396,
+    "profit":-246.4257,
+    "quantity":54,
+    "orders":7
+  },
+  {
+    "customer_id":"ED-13885",
+    "customer_name":"Emily Ducich",
+    "sales":3484.92,
+    "profit":670.4435,
+    "quantity":54,
+    "orders":8
+  },
+  {
+    "customer_id":"PW-19030",
+    "customer_name":"Pauline Webber",
+    "sales":3454.916,
+    "profit":803.8169,
+    "quantity":48,
+    "orders":10
+  },
+  {
+    "customer_id":"SF-20200",
+    "customer_name":"Sarah Foster",
+    "sales":3422.786,
+    "profit":286.9046,
+    "quantity":74,
+    "orders":9
+  },
+  {
+    "customer_id":"FC-14245",
+    "customer_name":"Frank Carlisle",
+    "sales":3418.742,
+    "profit":1217.1662,
+    "quantity":50,
+    "orders":7
+  },
+  {
+    "customer_id":"SH-19975",
+    "customer_name":"Sally Hughsby",
+    "sales":3406.8395,
+    "profit":558.474,
+    "quantity":113,
+    "orders":13
+  },
+  {
+    "customer_id":"SG-20080",
+    "customer_name":"Sandra Glassco",
+    "sales":3406.581,
+    "profit":570.438,
+    "quantity":30,
+    "orders":3
+  },
+  {
+    "customer_id":"TS-21655",
+    "customer_name":"Trudy Schmidt",
+    "sales":3368.094,
+    "profit":220.9163,
+    "quantity":52,
+    "orders":5
+  },
+  {
+    "customer_id":"SC-20020",
+    "customer_name":"Sam Craven",
+    "sales":3362.9636,
+    "profit":-317.0508,
+    "quantity":62,
+    "orders":5
+  },
+  {
+    "customer_id":"VP-21760",
+    "customer_name":"Victoria Pisteka",
+    "sales":3360.526,
+    "profit":-1018.7768,
+    "quantity":65,
+    "orders":7
+  },
+  {
+    "customer_id":"DJ-13630",
+    "customer_name":"Doug Jacobs",
+    "sales":3356.398,
+    "profit":731.5644,
+    "quantity":43,
+    "orders":3
+  },
+  {
+    "customer_id":"BP-11095",
+    "customer_name":"Bart Pistole",
+    "sales":3350.874,
+    "profit":702.9642,
+    "quantity":85,
+    "orders":14
+  },
+  {
+    "customer_id":"DV-13465",
+    "customer_name":"Dianna Vittorini",
+    "sales":3341.587,
+    "profit":353.2127,
+    "quantity":62,
+    "orders":6
+  },
+  {
+    "customer_id":"SF-20965",
+    "customer_name":"Sylvia Foulston",
+    "sales":3336.535,
+    "profit":539.9352,
+    "quantity":66,
+    "orders":9
+  },
+  {
+    "customer_id":"DC-12850",
+    "customer_name":"Dan Campbell",
+    "sales":3336.168,
+    "profit":-1441.6313,
+    "quantity":64,
+    "orders":9
+  },
+  {
+    "customer_id":"BD-11605",
+    "customer_name":"Brian Dahlen",
+    "sales":3332.871,
+    "profit":655.7103,
+    "quantity":84,
+    "orders":9
+  },
+  {
+    "customer_id":"AP-10915",
+    "customer_name":"Arthur Prichep",
+    "sales":3323.556,
+    "profit":579.3113,
+    "quantity":102,
+    "orders":10
+  },
+  {
+    "customer_id":"DK-13375",
+    "customer_name":"Dennis Kane",
+    "sales":3318.486,
+    "profit":377.0799,
+    "quantity":77,
+    "orders":8
+  },
+  {
+    "customer_id":"KH-16330",
+    "customer_name":"Katharine Harms",
+    "sales":3312.864,
+    "profit":454.7871,
+    "quantity":70,
+    "orders":8
+  },
+  {
+    "customer_id":"RF-19345",
+    "customer_name":"Randy Ferguson",
+    "sales":3309.15,
+    "profit":633.7072,
+    "quantity":67,
+    "orders":8
+  },
+  {
+    "customer_id":"RR-19525",
+    "customer_name":"Rick Reed",
+    "sales":3302.262,
+    "profit":721.6826,
+    "quantity":36,
+    "orders":6
+  },
+  {
+    "customer_id":"BS-11665",
+    "customer_name":"Brian Stugart",
+    "sales":3288.11,
+    "profit":238.7368,
+    "quantity":47,
+    "orders":3
+  },
+  {
+    "customer_id":"RW-19630",
+    "customer_name":"Rob Williams",
+    "sales":3279.746,
+    "profit":698.8325,
+    "quantity":53,
+    "orders":9
+  },
+  {
+    "customer_id":"DL-12925",
+    "customer_name":"Daniel Lacy",
+    "sales":3272.2,
+    "profit":4.2132,
+    "quantity":43,
+    "orders":6
+  },
+  {
+    "customer_id":"DK-12835",
+    "customer_name":"Damala Kotsonis",
+    "sales":3256.48,
+    "profit":881.1228,
+    "quantity":86,
+    "orders":12
+  },
+  {
+    "customer_id":"AS-10090",
+    "customer_name":"Adam Shillingsburg",
+    "sales":3255.31,
+    "profit":64.5374,
+    "quantity":81,
+    "orders":9
+  },
+  {
+    "customer_id":"JO-15145",
+    "customer_name":"Jack O'Briant",
+    "sales":3254.949,
+    "profit":581.4045,
+    "quantity":59,
+    "orders":9
+  },
+  {
+    "customer_id":"AH-10075",
+    "customer_name":"Adam Hart",
+    "sales":3250.337,
+    "profit":281.189,
+    "quantity":75,
+    "orders":10
+  },
+  {
+    "customer_id":"HG-14965",
+    "customer_name":"Henry Goldwyn",
+    "sales":3247.642,
+    "profit":-2797.9635,
+    "quantity":68,
+    "orders":12
+  },
+  {
+    "customer_id":"LC-16960",
+    "customer_name":"Lindsay Castell",
+    "sales":3246.626,
+    "profit":299.4802,
+    "quantity":30,
+    "orders":4
+  },
+  {
+    "customer_id":"EB-13750",
+    "customer_name":"Edward Becker",
+    "sales":3236.314,
+    "profit":-80.286,
+    "quantity":91,
+    "orders":10
+  },
+  {
+    "customer_id":"SR-20425",
+    "customer_name":"Sharelle Roach",
+    "sales":3233.481,
+    "profit":-3333.9144,
+    "quantity":34,
+    "orders":5
+  },
+  {
+    "customer_id":"LW-16990",
+    "customer_name":"Lindsay Williams",
+    "sales":3230.308,
+    "profit":662.8339,
+    "quantity":38,
+    "orders":6
+  },
+  {
+    "customer_id":"RS-19420",
+    "customer_name":"Ricardo Sperren",
+    "sales":3221.29,
+    "profit":633.4514,
+    "quantity":29,
+    "orders":5
+  },
+  {
+    "customer_id":"AS-10285",
+    "customer_name":"Alejandro Savely",
+    "sales":3214.236,
+    "profit":354.6276,
+    "quantity":39,
+    "orders":6
+  },
+  {
+    "customer_id":"MP-17470",
+    "customer_name":"Mark Packer",
+    "sales":3206.132,
+    "profit":600.2873,
+    "quantity":77,
+    "orders":7
+  },
+  {
+    "customer_id":"CS-12355",
+    "customer_name":"Christine Sundaresam",
+    "sales":3202.162,
+    "profit":831.9432,
+    "quantity":74,
+    "orders":11
+  },
+  {
+    "customer_id":"BT-11680",
+    "customer_name":"Brian Thompson",
+    "sales":3196.752,
+    "profit":447.7484,
+    "quantity":88,
+    "orders":7
+  },
+  {
+    "customer_id":"DG-13300",
+    "customer_name":"Deirdre Greer",
+    "sales":3195.818,
+    "profit":562.7761,
+    "quantity":39,
+    "orders":5
+  },
+  {
+    "customer_id":"JL-15505",
+    "customer_name":"Jeremy Lonsdale",
+    "sales":3173.874,
+    "profit":591.7163,
+    "quantity":56,
+    "orders":6
+  },
+  {
+    "customer_id":"GM-14680",
+    "customer_name":"Greg Matthias",
+    "sales":3163.628,
+    "profit":35.4865,
+    "quantity":31,
+    "orders":6
+  },
+  {
+    "customer_id":"JM-15250",
+    "customer_name":"Janet Martin",
+    "sales":3159.122,
+    "profit":19.8235,
+    "quantity":91,
+    "orders":6
+  },
+  {
+    "customer_id":"CK-12205",
+    "customer_name":"Chloris Kastensmidt",
+    "sales":3154.855,
+    "profit":141.2831,
+    "quantity":122,
+    "orders":13
+  },
+  {
+    "customer_id":"KB-16240",
+    "customer_name":"Karen Bern",
+    "sales":3152.615,
+    "profit":763.9076,
+    "quantity":34,
+    "orders":7
+  },
+  {
+    "customer_id":"MS-17770",
+    "customer_name":"Maxwell Schwartz",
+    "sales":3144.678,
+    "profit":280.8584,
+    "quantity":73,
+    "orders":9
+  },
+  {
+    "customer_id":"EH-14125",
+    "customer_name":"Eugene Hildebrand",
+    "sales":3143.483,
+    "profit":117.8102,
+    "quantity":84,
+    "orders":14
+  },
+  {
+    "customer_id":"RD-19900",
+    "customer_name":"Ruben Dartt",
+    "sales":3133.924,
+    "profit":455.5292,
+    "quantity":85,
+    "orders":9
+  },
+  {
+    "customer_id":"TN-21040",
+    "customer_name":"Tanja Norvell",
+    "sales":3130.221,
+    "profit":-692.0452,
+    "quantity":48,
+    "orders":7
+  },
+  {
+    "customer_id":"SN-20710",
+    "customer_name":"Steve Nguyen",
+    "sales":3127.9592,
+    "profit":481.7499,
+    "quantity":89,
+    "orders":7
+  },
+  {
+    "customer_id":"SG-20605",
+    "customer_name":"Speros Goranitis",
+    "sales":3124.832,
+    "profit":463.269,
+    "quantity":49,
+    "orders":6
+  },
+  {
+    "customer_id":"KH-16360",
+    "customer_name":"Katherine Hughes",
+    "sales":3100.612,
+    "profit":528.2051,
+    "quantity":40,
+    "orders":6
+  },
+  {
+    "customer_id":"PG-18820",
+    "customer_name":"Patrick Gardner",
+    "sales":3086.907,
+    "profit":137.4613,
+    "quantity":83,
+    "orders":13
+  },
+  {
+    "customer_id":"GM-14455",
+    "customer_name":"Gary Mitchum",
+    "sales":3078.624,
+    "profit":793.2814,
+    "quantity":54,
+    "orders":6
+  },
+  {
+    "customer_id":"EB-14110",
+    "customer_name":"Eugene Barchas",
+    "sales":3071.126,
+    "profit":184.7656,
+    "quantity":30,
+    "orders":6
+  },
+  {
+    "customer_id":"MG-18145",
+    "customer_name":"Mike Gockenbach",
+    "sales":3061.543,
+    "profit":-93.603,
+    "quantity":42,
+    "orders":4
+  },
+  {
+    "customer_id":"TG-21310",
+    "customer_name":"Toby Gnade",
+    "sales":3058.372,
+    "profit":682.1704,
+    "quantity":30,
+    "orders":5
+  },
+  {
+    "customer_id":"KT-16465",
+    "customer_name":"Kean Takahito",
+    "sales":3057.1,
+    "profit":254.0032,
+    "quantity":45,
+    "orders":7
+  },
+  {
+    "customer_id":"SS-20410",
+    "customer_name":"Shahid Shariari",
+    "sales":3056.807,
+    "profit":-1010.9738,
+    "quantity":46,
+    "orders":6
+  },
+  {
+    "customer_id":"SL-20155",
+    "customer_name":"Sara Luxemburg",
+    "sales":3053.012,
+    "profit":527.9715,
+    "quantity":30,
+    "orders":7
+  },
+  {
+    "customer_id":"AS-10045",
+    "customer_name":"Aaron Smayling",
+    "sales":3050.692,
+    "profit":-253.5746,
+    "quantity":48,
+    "orders":7
+  },
+  {
+    "customer_id":"CA-12775",
+    "customer_name":"Cynthia Arntzen",
+    "sales":3041.566,
+    "profit":204.4895,
+    "quantity":72,
+    "orders":7
+  },
+  {
+    "customer_id":"CS-11950",
+    "customer_name":"Carlos Soltero",
+    "sales":3036.547,
+    "profit":-126.4223,
+    "quantity":68,
+    "orders":11
+  },
+  {
+    "customer_id":"LS-16975",
+    "customer_name":"Lindsay Shagiari",
+    "sales":2988.674,
+    "profit":262.6367,
+    "quantity":63,
+    "orders":9
+  },
+  {
+    "customer_id":"MH-18025",
+    "customer_name":"Michelle Huthwaite",
+    "sales":2984.948,
+    "profit":476.9032,
+    "quantity":31,
+    "orders":5
+  },
+  {
+    "customer_id":"FA-14230",
+    "customer_name":"Frank Atkinson",
+    "sales":2984.054,
+    "profit":520.5229,
+    "quantity":58,
+    "orders":7
+  },
+  {
+    "customer_id":"DB-13120",
+    "customer_name":"David Bremer",
+    "sales":2973.094,
+    "profit":-1421.7692,
+    "quantity":59,
+    "orders":7
+  },
+  {
+    "customer_id":"NS-18640",
+    "customer_name":"Noel Staavos",
+    "sales":2964.823,
+    "profit":-234.7714,
+    "quantity":113,
+    "orders":13
+  },
+  {
+    "customer_id":"TM-21010",
+    "customer_name":"Tamara Manning",
+    "sales":2955.226,
+    "profit":573.3013,
+    "quantity":67,
+    "orders":8
+  },
+  {
+    "customer_id":"CK-12325",
+    "customer_name":"Christine Kargatis",
+    "sales":2945.321,
+    "profit":261.2209,
+    "quantity":46,
+    "orders":5
+  },
+  {
+    "customer_id":"TH-21115",
+    "customer_name":"Thea Hudgings",
+    "sales":2942.772,
+    "profit":-252.5539,
+    "quantity":29,
+    "orders":4
+  },
+  {
+    "customer_id":"LT-17110",
+    "customer_name":"Liz Thompson",
+    "sales":2936.252,
+    "profit":320.973,
+    "quantity":63,
+    "orders":8
+  },
+  {
+    "customer_id":"BC-11125",
+    "customer_name":"Becky Castell",
+    "sales":2933.676,
+    "profit":251.5974,
+    "quantity":60,
+    "orders":9
+  },
+  {
+    "customer_id":"JK-16120",
+    "customer_name":"Julie Kriz",
+    "sales":2932.484,
+    "profit":122.6566,
+    "quantity":49,
+    "orders":10
+  },
+  {
+    "customer_id":"SW-20455",
+    "customer_name":"Shaun Weien",
+    "sales":2921.544,
+    "profit":793.6548,
+    "quantity":18,
+    "orders":7
+  },
+  {
+    "customer_id":"ML-17410",
+    "customer_name":"Maris LaWare",
+    "sales":2921.5,
+    "profit":-76.1755,
+    "quantity":51,
+    "orders":6
+  },
+  {
+    "customer_id":"RD-19585",
+    "customer_name":"Rob Dowd",
+    "sales":2912.894,
+    "profit":734.5158,
+    "quantity":73,
+    "orders":10
+  },
+  {
+    "customer_id":"CY-12745",
+    "customer_name":"Craig Yedwab",
+    "sales":2900.026,
+    "profit":60.6467,
+    "quantity":43,
+    "orders":8
+  },
+  {
+    "customer_id":"ND-18460",
+    "customer_name":"Neil Ducich",
+    "sales":2893.455,
+    "profit":443.3368,
+    "quantity":36,
+    "orders":6
+  },
+  {
+    "customer_id":"MT-17815",
+    "customer_name":"Meg Tillman",
+    "sales":2890.139,
+    "profit":509.0068,
+    "quantity":31,
+    "orders":6
+  },
+  {
+    "customer_id":"BF-11020",
+    "customer_name":"Barry Franz\u00f6sisch",
+    "sales":2888.506,
+    "profit":302.02,
+    "quantity":78,
+    "orders":8
+  },
+  {
+    "customer_id":"DS-13180",
+    "customer_name":"David Smith",
+    "sales":2881.8128,
+    "profit":163.6993,
+    "quantity":68,
+    "orders":9
+  },
+  {
+    "customer_id":"PV-18985",
+    "customer_name":"Paul Van Hugh",
+    "sales":2876.046,
+    "profit":434.5284,
+    "quantity":52,
+    "orders":5
+  },
+  {
+    "customer_id":"IM-15055",
+    "customer_name":"Ionia McGrath",
+    "sales":2872.63,
+    "profit":975.7701,
+    "quantity":19,
+    "orders":3
+  },
+  {
+    "customer_id":"CC-12685",
+    "customer_name":"Craig Carroll",
+    "sales":2854.115,
+    "profit":850.1591,
+    "quantity":51,
+    "orders":4
+  },
+  {
+    "customer_id":"AW-10930",
+    "customer_name":"Arthur Wiediger",
+    "sales":2852.968,
+    "profit":-104.5486,
+    "quantity":68,
+    "orders":7
+  },
+  {
+    "customer_id":"EA-14035",
+    "customer_name":"Erin Ashbrook",
+    "sales":2846.705,
+    "profit":-52.7406,
+    "quantity":87,
+    "orders":13
+  },
+  {
+    "customer_id":"LS-16945",
+    "customer_name":"Linda Southworth",
+    "sales":2845.27,
+    "profit":-318.7737,
+    "quantity":51,
+    "orders":6
+  },
+  {
+    "customer_id":"DB-12970",
+    "customer_name":"Darren Budd",
+    "sales":2839.2272,
+    "profit":213.0029,
+    "quantity":43,
+    "orders":5
+  },
+  {
+    "customer_id":"JM-16195",
+    "customer_name":"Justin MacKendrick",
+    "sales":2833.926,
+    "profit":754.1144,
+    "quantity":74,
+    "orders":10
+  },
+  {
+    "customer_id":"CV-12295",
+    "customer_name":"Christina VanderZanden",
+    "sales":2830.628,
+    "profit":493.0861,
+    "quantity":54,
+    "orders":5
+  },
+  {
+    "customer_id":"TS-21610",
+    "customer_name":"Troy Staebel",
+    "sales":2820.424,
+    "profit":-294.6981,
+    "quantity":44,
+    "orders":7
+  },
+  {
+    "customer_id":"GH-14410",
+    "customer_name":"Gary Hansen",
+    "sales":2819.467,
+    "profit":-576.8335,
+    "quantity":65,
+    "orders":9
+  },
+  {
+    "customer_id":"BG-11035",
+    "customer_name":"Barry Gonzalez",
+    "sales":2798.948,
+    "profit":-711.4274,
+    "quantity":35,
+    "orders":8
+  },
+  {
+    "customer_id":"TB-21625",
+    "customer_name":"Trudy Brown",
+    "sales":2797.668,
+    "profit":379.882,
+    "quantity":60,
+    "orders":9
+  },
+  {
+    "customer_id":"RD-19660",
+    "customer_name":"Robert Dilbeck",
+    "sales":2786.632,
+    "profit":835.772,
+    "quantity":23,
+    "orders":5
+  },
+  {
+    "customer_id":"JC-15775",
+    "customer_name":"John Castell",
+    "sales":2772.055,
+    "profit":279.5692,
+    "quantity":64,
+    "orders":9
+  },
+  {
+    "customer_id":"PF-19165",
+    "customer_name":"Philip Fox",
+    "sales":2770.0,
+    "profit":196.8739,
+    "quantity":34,
+    "orders":6
+  },
+  {
+    "customer_id":"EB-13870",
+    "customer_name":"Emily Burns",
+    "sales":2767.219,
+    "profit":261.5315,
+    "quantity":41,
+    "orders":10
+  },
+  {
+    "customer_id":"CS-12250",
+    "customer_name":"Chris Selesnick",
+    "sales":2754.216,
+    "profit":738.3626,
+    "quantity":97,
+    "orders":12
+  },
+  {
+    "customer_id":"MM-18055",
+    "customer_name":"Michelle Moray",
+    "sales":2749.881,
+    "profit":-520.3443,
+    "quantity":73,
+    "orders":8
+  },
+  {
+    "customer_id":"KB-16585",
+    "customer_name":"Ken Black",
+    "sales":2744.742,
+    "profit":579.3551,
+    "quantity":102,
+    "orders":12
+  },
+  {
+    "customer_id":"LL-16840",
+    "customer_name":"Lauren Leatherbury",
+    "sales":2741.204,
+    "profit":560.0078,
+    "quantity":50,
+    "orders":6
+  },
+  {
+    "customer_id":"FM-14380",
+    "customer_name":"Fred McMath",
+    "sales":2731.996,
+    "profit":218.0138,
+    "quantity":63,
+    "orders":11
+  },
+  {
+    "customer_id":"MC-17275",
+    "customer_name":"Marc Crier",
+    "sales":2725.982,
+    "profit":461.0014,
+    "quantity":54,
+    "orders":8
+  },
+  {
+    "customer_id":"JL-15850",
+    "customer_name":"John Lucas",
+    "sales":2725.256,
+    "profit":779.9046,
+    "quantity":38,
+    "orders":6
+  },
+  {
+    "customer_id":"ML-17395",
+    "customer_name":"Marina Lichtenstein",
+    "sales":2722.843,
+    "profit":684.9162,
+    "quantity":72,
+    "orders":9
+  },
+  {
+    "customer_id":"AG-10270",
+    "customer_name":"Alejandro Grove",
+    "sales":2720.386,
+    "profit":792.4823,
+    "quantity":78,
+    "orders":9
+  },
+  {
+    "customer_id":"JK-15370",
+    "customer_name":"Jay Kimmel",
+    "sales":2709.632,
+    "profit":330.2838,
+    "quantity":72,
+    "orders":8
+  },
+  {
+    "customer_id":"JE-16165",
+    "customer_name":"Justin Ellison",
+    "sales":2697.248,
+    "profit":789.6476,
+    "quantity":34,
+    "orders":3
+  },
+  {
+    "customer_id":"BT-11530",
+    "customer_name":"Bradley Talbott",
+    "sales":2684.492,
+    "profit":409.4983,
+    "quantity":44,
+    "orders":5
+  },
+  {
+    "customer_id":"BO-11350",
+    "customer_name":"Bill Overfelt",
+    "sales":2682.728,
+    "profit":278.777,
+    "quantity":43,
+    "orders":5
+  },
+  {
+    "customer_id":"FO-14305",
+    "customer_name":"Frank Olsen",
+    "sales":2678.438,
+    "profit":215.5969,
+    "quantity":60,
+    "orders":10
+  },
+  {
+    "customer_id":"NH-18610",
+    "customer_name":"Nicole Hansen",
+    "sales":2673.29,
+    "profit":760.1666,
+    "quantity":52,
+    "orders":7
+  },
+  {
+    "customer_id":"RB-19435",
+    "customer_name":"Richard Bierner",
+    "sales":2663.086,
+    "profit":477.2399,
+    "quantity":66,
+    "orders":8
+  },
+  {
+    "customer_id":"EJ-14155",
+    "customer_name":"Eva Jacobs",
+    "sales":2656.691,
+    "profit":451.8755,
+    "quantity":31,
+    "orders":5
+  },
+  {
+    "customer_id":"DK-13090",
+    "customer_name":"Dave Kipp",
+    "sales":2650.557,
+    "profit":536.3935,
+    "quantity":33,
+    "orders":7
+  },
+  {
+    "customer_id":"CA-12265",
+    "customer_name":"Christina Anderson",
+    "sales":2648.2872,
+    "profit":279.6183,
+    "quantity":65,
+    "orders":9
+  },
+  {
+    "customer_id":"LC-17140",
+    "customer_name":"Logan Currie",
+    "sales":2633.582,
+    "profit":231.1252,
+    "quantity":62,
+    "orders":9
+  },
+  {
+    "customer_id":"RA-19285",
+    "customer_name":"Ralph Arnett",
+    "sales":2617.906,
+    "profit":546.0882,
+    "quantity":58,
+    "orders":9
+  },
+  {
+    "customer_id":"KN-16390",
+    "customer_name":"Katherine Nockton",
+    "sales":2617.272,
+    "profit":-151.1518,
+    "quantity":56,
+    "orders":9
+  },
+  {
+    "customer_id":"SO-20335",
+    "customer_name":"Sean O'Donnell",
+    "sales":2602.5755,
+    "profit":-81.0858,
+    "quantity":52,
+    "orders":6
+  },
+  {
+    "customer_id":"SU-20665",
+    "customer_name":"Stephanie Ulpright",
+    "sales":2595.364,
+    "profit":763.4719,
+    "quantity":61,
+    "orders":7
+  },
+  {
+    "customer_id":"HA-14920",
+    "customer_name":"Helen Andreada",
+    "sales":2584.158,
+    "profit":99.1445,
+    "quantity":72,
+    "orders":8
+  },
+  {
+    "customer_id":"LC-16870",
+    "customer_name":"Lena Cacioppo",
+    "sales":2580.704,
+    "profit":-188.2511,
+    "quantity":113,
+    "orders":8
+  },
+  {
+    "customer_id":"SC-20695",
+    "customer_name":"Steve Chapman",
+    "sales":2576.408,
+    "profit":611.8291,
+    "quantity":66,
+    "orders":10
+  },
+  {
+    "customer_id":"NS-18505",
+    "customer_name":"Neola Schneider",
+    "sales":2575.863,
+    "profit":-12.304,
+    "quantity":52,
+    "orders":4
+  },
+  {
+    "customer_id":"BT-11305",
+    "customer_name":"Beth Thompson",
+    "sales":2567.656,
+    "profit":417.5918,
+    "quantity":33,
+    "orders":5
+  },
+  {
+    "customer_id":"EM-13810",
+    "customer_name":"Eleni McCrary",
+    "sales":2567.01,
+    "profit":-133.8275,
+    "quantity":23,
+    "orders":5
+  },
+  {
+    "customer_id":"MZ-17515",
+    "customer_name":"Mary Zewe",
+    "sales":2564.906,
+    "profit":787.7503,
+    "quantity":39,
+    "orders":6
+  },
+  {
+    "customer_id":"BS-11755",
+    "customer_name":"Bruce Stewart",
+    "sales":2562.382,
+    "profit":-113.2984,
+    "quantity":45,
+    "orders":7
+  },
+  {
+    "customer_id":"DE-13255",
+    "customer_name":"Deanra Eno",
+    "sales":2550.874,
+    "profit":464.4714,
+    "quantity":38,
+    "orders":5
+  },
+  {
+    "customer_id":"CC-12610",
+    "customer_name":"Corey Catlett",
+    "sales":2540.631,
+    "profit":331.434,
+    "quantity":39,
+    "orders":7
+  },
+  {
+    "customer_id":"AC-10615",
+    "customer_name":"Ann Chong",
+    "sales":2537.686,
+    "profit":298.8273,
+    "quantity":59,
+    "orders":5
+  },
+  {
+    "customer_id":"CM-12160",
+    "customer_name":"Charles McCrossin",
+    "sales":2533.314,
+    "profit":-394.3686,
+    "quantity":23,
+    "orders":6
+  },
+  {
+    "customer_id":"HF-14995",
+    "customer_name":"Herbert Flentye",
+    "sales":2533.164,
+    "profit":-13.8768,
+    "quantity":70,
+    "orders":7
+  },
+  {
+    "customer_id":"GZ-14545",
+    "customer_name":"George Zrebassa",
+    "sales":2529.11,
+    "profit":860.6918,
+    "quantity":38,
+    "orders":8
+  },
+  {
+    "customer_id":"JB-16045",
+    "customer_name":"Julia Barnett",
+    "sales":2518.115,
+    "profit":201.5185,
+    "quantity":32,
+    "orders":5
+  },
+  {
+    "customer_id":"JS-16030",
+    "customer_name":"Joy Smith",
+    "sales":2516.494,
+    "profit":-311.2575,
+    "quantity":70,
+    "orders":6
+  },
+  {
+    "customer_id":"XP-21865",
+    "customer_name":"Xylona Preis",
+    "sales":2503.156,
+    "profit":675.9584,
+    "quantity":121,
+    "orders":13
+  },
+  {
+    "customer_id":"DJ-13510",
+    "customer_name":"Don Jones",
+    "sales":2501.688,
+    "profit":345.2521,
+    "quantity":52,
+    "orders":8
+  },
+  {
+    "customer_id":"AH-10465",
+    "customer_name":"Amy Hunt",
+    "sales":2495.3916,
+    "profit":-196.1201,
+    "quantity":35,
+    "orders":5
+  },
+  {
+    "customer_id":"PO-18865",
+    "customer_name":"Patrick O'Donnell",
+    "sales":2493.214,
+    "profit":437.8533,
+    "quantity":54,
+    "orders":7
+  },
+  {
+    "customer_id":"NZ-18565",
+    "customer_name":"Nick Zandusky",
+    "sales":2488.31,
+    "profit":402.4236,
+    "quantity":77,
+    "orders":9
+  },
+  {
+    "customer_id":"MN-17935",
+    "customer_name":"Michael Nguyen",
+    "sales":2477.946,
+    "profit":290.8227,
+    "quantity":36,
+    "orders":6
+  },
+  {
+    "customer_id":"BP-11290",
+    "customer_name":"Beth Paige",
+    "sales":2475.157,
+    "profit":-319.0637,
+    "quantity":51,
+    "orders":7
+  },
+  {
+    "customer_id":"CC-12145",
+    "customer_name":"Charles Crestani",
+    "sales":2471.65,
+    "profit":392.2825,
+    "quantity":31,
+    "orders":7
+  },
+  {
+    "customer_id":"NC-18340",
+    "customer_name":"Nat Carroll",
+    "sales":2461.404,
+    "profit":580.3075,
+    "quantity":54,
+    "orders":5
+  },
+  {
+    "customer_id":"FM-14215",
+    "customer_name":"Filia McAdams",
+    "sales":2456.638,
+    "profit":249.6808,
+    "quantity":48,
+    "orders":10
+  },
+  {
+    "customer_id":"MH-17455",
+    "customer_name":"Mark Hamilton",
+    "sales":2456.182,
+    "profit":484.7733,
+    "quantity":45,
+    "orders":8
+  },
+  {
+    "customer_id":"BS-11590",
+    "customer_name":"Brendan Sweed",
+    "sales":2454.928,
+    "profit":381.7807,
+    "quantity":41,
+    "orders":6
+  },
+  {
+    "customer_id":"VM-21685",
+    "customer_name":"Valerie Mitchum",
+    "sales":2454.866,
+    "profit":513.5269,
+    "quantity":37,
+    "orders":7
+  },
+  {
+    "customer_id":"MA-17995",
+    "customer_name":"Michelle Arnett",
+    "sales":2453.284,
+    "profit":280.7822,
+    "quantity":42,
+    "orders":6
+  },
+  {
+    "customer_id":"MC-17590",
+    "customer_name":"Matt Collister",
+    "sales":2426.067,
+    "profit":288.9841,
+    "quantity":47,
+    "orders":6
+  },
+  {
+    "customer_id":"TH-21100",
+    "customer_name":"Thea Hendricks",
+    "sales":2422.824,
+    "profit":-135.2125,
+    "quantity":29,
+    "orders":5
+  },
+  {
+    "customer_id":"MH-17290",
+    "customer_name":"Marc Harrigan",
+    "sales":2394.025,
+    "profit":28.7612,
+    "quantity":55,
+    "orders":6
+  },
+  {
+    "customer_id":"DF-13135",
+    "customer_name":"David Flashing",
+    "sales":2390.534,
+    "profit":-259.3097,
+    "quantity":23,
+    "orders":3
+  },
+  {
+    "customer_id":"CK-12595",
+    "customer_name":"Clytie Kelty",
+    "sales":2372.75,
+    "profit":497.7098,
+    "quantity":108,
+    "orders":11
+  },
+  {
+    "customer_id":"JF-15415",
+    "customer_name":"Jennifer Ferguson",
+    "sales":2371.448,
+    "profit":635.6376,
+    "quantity":69,
+    "orders":6
+  },
+  {
+    "customer_id":"CV-12805",
+    "customer_name":"Cynthia Voltz",
+    "sales":2370.3136,
+    "profit":98.9975,
+    "quantity":62,
+    "orders":9
+  },
+  {
+    "customer_id":"NR-18550",
+    "customer_name":"Nick Radford",
+    "sales":2367.277,
+    "profit":-25.1488,
+    "quantity":37,
+    "orders":5
+  },
+  {
+    "customer_id":"JG-15115",
+    "customer_name":"Jack Garza",
+    "sales":2358.676,
+    "profit":684.1911,
+    "quantity":20,
+    "orders":3
+  },
+  {
+    "customer_id":"AG-10495",
+    "customer_name":"Andrew Gjertsen",
+    "sales":2356.855,
+    "profit":295.6668,
+    "quantity":93,
+    "orders":8
+  },
+  {
+    "customer_id":"CL-12700",
+    "customer_name":"Craig Leslie",
+    "sales":2353.586,
+    "profit":229.0099,
+    "quantity":34,
+    "orders":5
+  },
+  {
+    "customer_id":"MG-17680",
+    "customer_name":"Maureen Gastineau",
+    "sales":2350.188,
+    "profit":25.8886,
+    "quantity":25,
+    "orders":4
+  },
+  {
+    "customer_id":"RF-19735",
+    "customer_name":"Roland Fjeld",
+    "sales":2341.296,
+    "profit":711.6168,
+    "quantity":53,
+    "orders":7
+  },
+  {
+    "customer_id":"EM-13825",
+    "customer_name":"Elizabeth Moffitt",
+    "sales":2339.598,
+    "profit":682.5542,
+    "quantity":57,
+    "orders":8
+  },
+  {
+    "customer_id":"DB-13210",
+    "customer_name":"Dean Braden",
+    "sales":2332.577,
+    "profit":169.9679,
+    "quantity":75,
+    "orders":10
+  },
+  {
+    "customer_id":"CM-12235",
+    "customer_name":"Chris McAfee",
+    "sales":2305.712,
+    "profit":365.0387,
+    "quantity":28,
+    "orders":5
+  },
+  {
+    "customer_id":"MK-17905",
+    "customer_name":"Michael Kennedy",
+    "sales":2302.368,
+    "profit":-405.3559,
+    "quantity":73,
+    "orders":8
+  },
+  {
+    "customer_id":"LH-16900",
+    "customer_name":"Lena Hernandez",
+    "sales":2295.332,
+    "profit":526.0727,
+    "quantity":64,
+    "orders":9
+  },
+  {
+    "customer_id":"KN-16705",
+    "customer_name":"Kristina Nunn",
+    "sales":2280.58,
+    "profit":329.7625,
+    "quantity":55,
+    "orders":8
+  },
+  {
+    "customer_id":"JF-15190",
+    "customer_name":"Jamie Frazer",
+    "sales":2279.586,
+    "profit":575.1259,
+    "quantity":72,
+    "orders":7
+  },
+  {
+    "customer_id":"FH-14350",
+    "customer_name":"Fred Harton",
+    "sales":2271.284,
+    "profit":706.289,
+    "quantity":52,
+    "orders":4
+  },
+  {
+    "customer_id":"CC-12670",
+    "customer_name":"Craig Carreira",
+    "sales":2269.7015,
+    "profit":187.8399,
+    "quantity":47,
+    "orders":7
+  },
+  {
+    "customer_id":"BE-11410",
+    "customer_name":"Bobby Elias",
+    "sales":2261.438,
+    "profit":755.9151,
+    "quantity":19,
+    "orders":5
+  },
+  {
+    "customer_id":"KM-16225",
+    "customer_name":"Kalyca Meade",
+    "sales":2260.958,
+    "profit":635.1057,
+    "quantity":72,
+    "orders":6
+  },
+  {
+    "customer_id":"MC-17605",
+    "customer_name":"Matt Connell",
+    "sales":2258.192,
+    "profit":195.4486,
+    "quantity":60,
+    "orders":8
+  },
+  {
+    "customer_id":"JH-16180",
+    "customer_name":"Justin Hirsh",
+    "sales":2256.394,
+    "profit":-96.953,
+    "quantity":28,
+    "orders":4
+  },
+  {
+    "customer_id":"MY-17380",
+    "customer_name":"Maribeth Yedwab",
+    "sales":2254.285,
+    "profit":319.1211,
+    "quantity":49,
+    "orders":7
+  },
+  {
+    "customer_id":"KD-16615",
+    "customer_name":"Ken Dana",
+    "sales":2243.51,
+    "profit":539.7219,
+    "quantity":56,
+    "orders":5
+  },
+  {
+    "customer_id":"TS-21505",
+    "customer_name":"Tony Sayre",
+    "sales":2243.274,
+    "profit":11.3779,
+    "quantity":54,
+    "orders":6
+  },
+  {
+    "customer_id":"JG-15310",
+    "customer_name":"Jason Gross",
+    "sales":2240.58,
+    "profit":3.7976,
+    "quantity":46,
+    "orders":6
+  },
+  {
+    "customer_id":"LW-16825",
+    "customer_name":"Laurel Workman",
+    "sales":2238.061,
+    "profit":32.5767,
+    "quantity":50,
+    "orders":5
+  },
+  {
+    "customer_id":"AR-10405",
+    "customer_name":"Allen Rosenblatt",
+    "sales":2236.128,
+    "profit":-98.7646,
+    "quantity":29,
+    "orders":5
+  },
+  {
+    "customer_id":"TZ-21580",
+    "customer_name":"Tracy Zic",
+    "sales":2234.95,
+    "profit":349.4515,
+    "quantity":69,
+    "orders":8
+  },
+  {
+    "customer_id":"NC-18415",
+    "customer_name":"Nathan Cano",
+    "sales":2218.99,
+    "profit":-2204.8072,
+    "quantity":38,
+    "orders":6
+  },
+  {
+    "customer_id":"MC-18100",
+    "customer_name":"Mick Crebagga",
+    "sales":2218.98,
+    "profit":-64.1668,
+    "quantity":73,
+    "orders":10
+  },
+  {
+    "customer_id":"DP-13105",
+    "customer_name":"Dave Poirier",
+    "sales":2215.002,
+    "profit":563.1761,
+    "quantity":63,
+    "orders":8
+  },
+  {
+    "customer_id":"PF-19225",
+    "customer_name":"Phillip Flathmann",
+    "sales":2206.128,
+    "profit":591.3118,
+    "quantity":32,
+    "orders":5
+  },
+  {
+    "customer_id":"MH-17785",
+    "customer_name":"Maya Herman",
+    "sales":2203.778,
+    "profit":238.5614,
+    "quantity":42,
+    "orders":7
+  },
+  {
+    "customer_id":"JL-15235",
+    "customer_name":"Janet Lee",
+    "sales":2203.7,
+    "profit":54.5174,
+    "quantity":39,
+    "orders":5
+  },
+  {
+    "customer_id":"JR-16210",
+    "customer_name":"Justin Ritter",
+    "sales":2201.686,
+    "profit":452.373,
+    "quantity":41,
+    "orders":5
+  },
+  {
+    "customer_id":"EN-13780",
+    "customer_name":"Edward Nazzal",
+    "sales":2199.366,
+    "profit":496.1131,
+    "quantity":27,
+    "orders":4
+  },
+  {
+    "customer_id":"TB-21280",
+    "customer_name":"Toby Braunhardt",
+    "sales":2198.45,
+    "profit":490.9567,
+    "quantity":35,
+    "orders":6
+  },
+  {
+    "customer_id":"GW-14605",
+    "customer_name":"Giulietta Weimer",
+    "sales":2189.019,
+    "profit":-268.5423,
+    "quantity":43,
+    "orders":7
+  },
+  {
+    "customer_id":"BT-11395",
+    "customer_name":"Bill Tyler",
+    "sales":2186.613,
+    "profit":257.9163,
+    "quantity":38,
+    "orders":6
+  },
+  {
+    "customer_id":"PS-18760",
+    "customer_name":"Pamela Stobb",
+    "sales":2181.479,
+    "profit":-134.441,
+    "quantity":75,
+    "orders":6
+  },
+  {
+    "customer_id":"SH-20395",
+    "customer_name":"Shahid Hopkins",
+    "sales":2180.718,
+    "profit":-144.5229,
+    "quantity":45,
+    "orders":10
+  },
+  {
+    "customer_id":"KN-16450",
+    "customer_name":"Kean Nguyen",
+    "sales":2171.962,
+    "profit":114.3083,
+    "quantity":49,
+    "orders":5
+  },
+  {
+    "customer_id":"DB-12910",
+    "customer_name":"Daniel Byrd",
+    "sales":2171.599,
+    "profit":431.3748,
+    "quantity":47,
+    "orders":8
+  },
+  {
+    "customer_id":"RP-19855",
+    "customer_name":"Roy Phan",
+    "sales":2170.716,
+    "profit":594.5868,
+    "quantity":61,
+    "orders":8
+  },
+  {
+    "customer_id":"TS-21160",
+    "customer_name":"Theresa Swint",
+    "sales":2163.624,
+    "profit":260.8744,
+    "quantity":60,
+    "orders":6
+  },
+  {
+    "customer_id":"HA-14905",
+    "customer_name":"Helen Abelman",
+    "sales":2163.3,
+    "profit":270.8574,
+    "quantity":45,
+    "orders":7
+  },
+  {
+    "customer_id":"EJ-13720",
+    "customer_name":"Ed Jacobs",
+    "sales":2162.174,
+    "profit":387.0176,
+    "quantity":31,
+    "orders":4
+  },
+  {
+    "customer_id":"NM-18520",
+    "customer_name":"Neoma Murray",
+    "sales":2161.979,
+    "profit":788.9525,
+    "quantity":60,
+    "orders":10
+  },
+  {
+    "customer_id":"JD-15790",
+    "customer_name":"John Dryer",
+    "sales":2152.352,
+    "profit":-266.5525,
+    "quantity":26,
+    "orders":5
+  },
+  {
+    "customer_id":"CR-12580",
+    "customer_name":"Clay Rozendal",
+    "sales":2148.852,
+    "profit":74.4013,
+    "quantity":32,
+    "orders":4
+  },
+  {
+    "customer_id":"DN-13690",
+    "customer_name":"Duane Noonan",
+    "sales":2139.79,
+    "profit":540.5405,
+    "quantity":41,
+    "orders":7
+  },
+  {
+    "customer_id":"FG-14260",
+    "customer_name":"Frank Gastineau",
+    "sales":2124.784,
+    "profit":692.4281,
+    "quantity":70,
+    "orders":11
+  },
+  {
+    "customer_id":"KC-16255",
+    "customer_name":"Karen Carlisle",
+    "sales":2120.954,
+    "profit":846.1217,
+    "quantity":40,
+    "orders":6
+  },
+  {
+    "customer_id":"SH-20635",
+    "customer_name":"Stefanie Holloman",
+    "sales":2096.392,
+    "profit":260.6258,
+    "quantity":16,
+    "orders":2
+  },
+  {
+    "customer_id":"LC-17050",
+    "customer_name":"Liz Carlisle",
+    "sales":2095.064,
+    "profit":86.778,
+    "quantity":43,
+    "orders":5
+  },
+  {
+    "customer_id":"RH-19600",
+    "customer_name":"Rob Haberlin",
+    "sales":2085.74,
+    "profit":172.6261,
+    "quantity":43,
+    "orders":3
+  },
+  {
+    "customer_id":"TG-21640",
+    "customer_name":"Trudy Glocke",
+    "sales":2074.661,
+    "profit":365.7205,
+    "quantity":50,
+    "orders":4
+  },
+  {
+    "customer_id":"ML-17755",
+    "customer_name":"Max Ludwig",
+    "sales":2071.914,
+    "profit":409.5112,
+    "quantity":53,
+    "orders":7
+  },
+  {
+    "customer_id":"JM-15535",
+    "customer_name":"Jessica Myrick",
+    "sales":2070.063,
+    "profit":394.6255,
+    "quantity":54,
+    "orders":9
+  },
+  {
+    "customer_id":"RB-19705",
+    "customer_name":"Roger Barcio",
+    "sales":2067.45,
+    "profit":243.0755,
+    "quantity":22,
+    "orders":4
+  },
+  {
+    "customer_id":"TS-21430",
+    "customer_name":"Tom Stivers",
+    "sales":2054.14,
+    "profit":48.7017,
+    "quantity":31,
+    "orders":5
+  },
+  {
+    "customer_id":"AF-10870",
+    "customer_name":"Art Ferguson",
+    "sales":2052.908,
+    "profit":317.9712,
+    "quantity":51,
+    "orders":7
+  },
+  {
+    "customer_id":"DO-13645",
+    "customer_name":"Doug O'Connell",
+    "sales":2043.296,
+    "profit":658.7829,
+    "quantity":38,
+    "orders":9
+  },
+  {
+    "customer_id":"CD-11920",
+    "customer_name":"Carlos Daly",
+    "sales":2033.968,
+    "profit":426.661,
+    "quantity":35,
+    "orders":5
+  },
+  {
+    "customer_id":"DJ-13420",
+    "customer_name":"Denny Joy",
+    "sales":2012.52,
+    "profit":483.035,
+    "quantity":20,
+    "orders":4
+  },
+  {
+    "customer_id":"VB-21745",
+    "customer_name":"Victoria Brennan",
+    "sales":2005.596,
+    "profit":371.2398,
+    "quantity":37,
+    "orders":6
+  },
+  {
+    "customer_id":"HP-14815",
+    "customer_name":"Harold Pawlan",
+    "sales":1990.314,
+    "profit":373.8637,
+    "quantity":44,
+    "orders":7
+  },
+  {
+    "customer_id":"DB-13615",
+    "customer_name":"Doug Bickford",
+    "sales":1989.05,
+    "profit":438.8012,
+    "quantity":41,
+    "orders":7
+  },
+  {
+    "customer_id":"PG-18895",
+    "customer_name":"Paul Gonzalez",
+    "sales":1987.164,
+    "profit":334.5163,
+    "quantity":61,
+    "orders":9
+  },
+  {
+    "customer_id":"NB-18655",
+    "customer_name":"Nona Balk",
+    "sales":1972.599,
+    "profit":117.6429,
+    "quantity":64,
+    "orders":9
+  },
+  {
+    "customer_id":"SW-20275",
+    "customer_name":"Scott Williamson",
+    "sales":1966.65,
+    "profit":332.8725,
+    "quantity":28,
+    "orders":6
+  },
+  {
+    "customer_id":"LD-17005",
+    "customer_name":"Lisa DeCherney",
+    "sales":1961.934,
+    "profit":557.1714,
+    "quantity":25,
+    "orders":4
+  },
+  {
+    "customer_id":"CB-12415",
+    "customer_name":"Christy Brittain",
+    "sales":1949.2,
+    "profit":272.3883,
+    "quantity":44,
+    "orders":8
+  },
+  {
+    "customer_id":"TP-21565",
+    "customer_name":"Tracy Poddar",
+    "sales":1936.64,
+    "profit":139.2287,
+    "quantity":48,
+    "orders":4
+  },
+  {
+    "customer_id":"JO-15280",
+    "customer_name":"Jas O'Carroll",
+    "sales":1934.272,
+    "profit":202.1362,
+    "quantity":36,
+    "orders":6
+  },
+  {
+    "customer_id":"JF-15355",
+    "customer_name":"Jay Fein",
+    "sales":1911.844,
+    "profit":330.199,
+    "quantity":58,
+    "orders":6
+  },
+  {
+    "customer_id":"ME-17725",
+    "customer_name":"Max Engle",
+    "sales":1908.4532,
+    "profit":77.8128,
+    "quantity":46,
+    "orders":8
+  },
+  {
+    "customer_id":"SV-20935",
+    "customer_name":"Susan Vittorini",
+    "sales":1903.491,
+    "profit":106.8912,
+    "quantity":66,
+    "orders":8
+  },
+  {
+    "customer_id":"KD-16345",
+    "customer_name":"Katherine Ducich",
+    "sales":1888.964,
+    "profit":328.5942,
+    "quantity":36,
+    "orders":6
+  },
+  {
+    "customer_id":"GD-14590",
+    "customer_name":"Giulietta Dortch",
+    "sales":1888.07,
+    "profit":230.9373,
+    "quantity":25,
+    "orders":4
+  },
+  {
+    "customer_id":"SG-20470",
+    "customer_name":"Sheri Gordon",
+    "sales":1884.798,
+    "profit":-119.0105,
+    "quantity":62,
+    "orders":8
+  },
+  {
+    "customer_id":"LR-17035",
+    "customer_name":"Lisa Ryan",
+    "sales":1879.306,
+    "profit":-382.8079,
+    "quantity":44,
+    "orders":5
+  },
+  {
+    "customer_id":"SC-20440",
+    "customer_name":"Shaun Chance",
+    "sales":1874.998,
+    "profit":379.5611,
+    "quantity":44,
+    "orders":7
+  },
+  {
+    "customer_id":"BG-11695",
+    "customer_name":"Brooke Gillingham",
+    "sales":1874.172,
+    "profit":107.5715,
+    "quantity":24,
+    "orders":6
+  },
+  {
+    "customer_id":"SP-20650",
+    "customer_name":"Stephanie Phelps",
+    "sales":1872.436,
+    "profit":268.4782,
+    "quantity":71,
+    "orders":9
+  },
+  {
+    "customer_id":"NG-18355",
+    "customer_name":"Nat Gilpin",
+    "sales":1869.58,
+    "profit":313.6335,
+    "quantity":45,
+    "orders":5
+  },
+  {
+    "customer_id":"CD-12790",
+    "customer_name":"Cynthia Delaney",
+    "sales":1860.732,
+    "profit":403.8422,
+    "quantity":49,
+    "orders":5
+  },
+  {
+    "customer_id":"SN-20560",
+    "customer_name":"Skye Norling",
+    "sales":1860.418,
+    "profit":-716.8565,
+    "quantity":67,
+    "orders":6
+  },
+  {
+    "customer_id":"PR-18880",
+    "customer_name":"Patrick Ryan",
+    "sales":1840.178,
+    "profit":247.6226,
+    "quantity":43,
+    "orders":5
+  },
+  {
+    "customer_id":"AJ-10945",
+    "customer_name":"Ashley Jarboe",
+    "sales":1839.24,
+    "profit":521.1352,
+    "quantity":40,
+    "orders":7
+  },
+  {
+    "customer_id":"PC-18745",
+    "customer_name":"Pamela Coakley",
+    "sales":1832.064,
+    "profit":272.685,
+    "quantity":22,
+    "orders":4
+  },
+  {
+    "customer_id":"EG-13900",
+    "customer_name":"Emily Grady",
+    "sales":1832.02,
+    "profit":104.2656,
+    "quantity":44,
+    "orders":5
+  },
+  {
+    "customer_id":"JB-15400",
+    "customer_name":"Jennifer Braxton",
+    "sales":1830.485,
+    "profit":174.7144,
+    "quantity":49,
+    "orders":12
+  },
+  {
+    "customer_id":"PJ-19015",
+    "customer_name":"Pauline Johnson",
+    "sales":1824.234,
+    "profit":682.9979,
+    "quantity":25,
+    "orders":7
+  },
+  {
+    "customer_id":"NC-18625",
+    "customer_name":"Noah Childs",
+    "sales":1821.742,
+    "profit":-359.021,
+    "quantity":29,
+    "orders":5
+  },
+  {
+    "customer_id":"JM-15265",
+    "customer_name":"Janet Molinari",
+    "sales":1804.146,
+    "profit":502.6143,
+    "quantity":52,
+    "orders":5
+  },
+  {
+    "customer_id":"AA-10480",
+    "customer_name":"Andrew Allen",
+    "sales":1790.512,
+    "profit":435.8274,
+    "quantity":36,
+    "orders":4
+  },
+  {
+    "customer_id":"CC-12100",
+    "customer_name":"Chad Cunningham",
+    "sales":1770.945,
+    "profit":208.5912,
+    "quantity":46,
+    "orders":6
+  },
+  {
+    "customer_id":"DS-13030",
+    "customer_name":"Darrin Sayre",
+    "sales":1762.213,
+    "profit":193.3319,
+    "quantity":54,
+    "orders":4
+  },
+  {
+    "customer_id":"MF-18250",
+    "customer_name":"Monica Federle",
+    "sales":1758.3,
+    "profit":456.8608,
+    "quantity":38,
+    "orders":5
+  },
+  {
+    "customer_id":"AH-10030",
+    "customer_name":"Aaron Hawkins",
+    "sales":1744.7,
+    "profit":365.2152,
+    "quantity":54,
+    "orders":7
+  },
+  {
+    "customer_id":"LH-17155",
+    "customer_name":"Logan Haushalter",
+    "sales":1739.689,
+    "profit":316.5202,
+    "quantity":44,
+    "orders":9
+  },
+  {
+    "customer_id":"BW-11200",
+    "customer_name":"Ben Wallace",
+    "sales":1738.406,
+    "profit":246.9973,
+    "quantity":49,
+    "orders":6
+  },
+  {
+    "customer_id":"VT-21700",
+    "customer_name":"Valerie Takahito",
+    "sales":1736.596,
+    "profit":-224.0889,
+    "quantity":42,
+    "orders":2
+  },
+  {
+    "customer_id":"AH-10120",
+    "customer_name":"Adrian Hane",
+    "sales":1735.514,
+    "profit":-2.3146,
+    "quantity":65,
+    "orders":7
+  },
+  {
+    "customer_id":"MV-18190",
+    "customer_name":"Mike Vittorini",
+    "sales":1734.574,
+    "profit":273.8582,
+    "quantity":37,
+    "orders":7
+  },
+  {
+    "customer_id":"BE-11455",
+    "customer_name":"Brad Eason",
+    "sales":1727.652,
+    "profit":139.2008,
+    "quantity":40,
+    "orders":6
+  },
+  {
+    "customer_id":"JP-16135",
+    "customer_name":"Julie Prescott",
+    "sales":1707.71,
+    "profit":309.7116,
+    "quantity":47,
+    "orders":9
+  },
+  {
+    "customer_id":"BP-11155",
+    "customer_name":"Becky Pak",
+    "sales":1697.861,
+    "profit":647.3847,
+    "quantity":32,
+    "orders":6
+  },
+  {
+    "customer_id":"DK-12985",
+    "customer_name":"Darren Koutras",
+    "sales":1687.04,
+    "profit":-107.3538,
+    "quantity":32,
+    "orders":5
+  },
+  {
+    "customer_id":"MO-17800",
+    "customer_name":"Meg O'Connel",
+    "sales":1687.027,
+    "profit":169.3437,
+    "quantity":49,
+    "orders":8
+  },
+  {
+    "customer_id":"RA-19945",
+    "customer_name":"Ryan Akin",
+    "sales":1686.9225,
+    "profit":-445.695,
+    "quantity":27,
+    "orders":5
+  },
+  {
+    "customer_id":"KE-16420",
+    "customer_name":"Katrina Edelman",
+    "sales":1686.7312,
+    "profit":397.8799,
+    "quantity":67,
+    "orders":8
+  },
+  {
+    "customer_id":"CA-12055",
+    "customer_name":"Cathy Armstrong",
+    "sales":1679.724,
+    "profit":211.2559,
+    "quantity":49,
+    "orders":5
+  },
+  {
+    "customer_id":"CM-11815",
+    "customer_name":"Candace McMahon",
+    "sales":1673.888,
+    "profit":214.463,
+    "quantity":38,
+    "orders":6
+  },
+  {
+    "customer_id":"JP-15460",
+    "customer_name":"Jennifer Patt",
+    "sales":1669.135,
+    "profit":429.7465,
+    "quantity":54,
+    "orders":7
+  },
+  {
+    "customer_id":"CM-12115",
+    "customer_name":"Chad McGuire",
+    "sales":1661.61,
+    "profit":409.0679,
+    "quantity":35,
+    "orders":4
+  },
+  {
+    "customer_id":"CC-12475",
+    "customer_name":"Cindy Chapman",
+    "sales":1659.438,
+    "profit":154.851,
+    "quantity":40,
+    "orders":9
+  },
+  {
+    "customer_id":"EB-13975",
+    "customer_name":"Erica Bern",
+    "sales":1643.255,
+    "profit":162.8781,
+    "quantity":18,
+    "orders":4
+  },
+  {
+    "customer_id":"AP-10720",
+    "customer_name":"Anne Pryor",
+    "sales":1638.554,
+    "profit":285.7888,
+    "quantity":85,
+    "orders":8
+  },
+  {
+    "customer_id":"AZ-10750",
+    "customer_name":"Annie Zypern",
+    "sales":1622.018,
+    "profit":154.9503,
+    "quantity":40,
+    "orders":6
+  },
+  {
+    "customer_id":"MS-17710",
+    "customer_name":"Maurice Satty",
+    "sales":1613.402,
+    "profit":247.4348,
+    "quantity":48,
+    "orders":6
+  },
+  {
+    "customer_id":"TB-21250",
+    "customer_name":"Tim Brockman",
+    "sales":1602.376,
+    "profit":260.6155,
+    "quantity":74,
+    "orders":7
+  },
+  {
+    "customer_id":"CR-12730",
+    "customer_name":"Craig Reiter",
+    "sales":1600.55,
+    "profit":306.9176,
+    "quantity":18,
+    "orders":4
+  },
+  {
+    "customer_id":"AH-10195",
+    "customer_name":"Alan Haines",
+    "sales":1587.452,
+    "profit":-378.5509,
+    "quantity":28,
+    "orders":4
+  },
+  {
+    "customer_id":"BF-11215",
+    "customer_name":"Benjamin Farhat",
+    "sales":1585.162,
+    "profit":523.2133,
+    "quantity":48,
+    "orders":4
+  },
+  {
+    "customer_id":"CK-12760",
+    "customer_name":"Cyma Kinney",
+    "sales":1582.109,
+    "profit":-338.4311,
+    "quantity":64,
+    "orders":9
+  },
+  {
+    "customer_id":"MC-18130",
+    "customer_name":"Mike Caudle",
+    "sales":1581.998,
+    "profit":121.7565,
+    "quantity":34,
+    "orders":5
+  },
+  {
+    "customer_id":"JL-15175",
+    "customer_name":"James Lanier",
+    "sales":1571.523,
+    "profit":209.2817,
+    "quantity":29,
+    "orders":5
+  },
+  {
+    "customer_id":"KB-16315",
+    "customer_name":"Karl Braun",
+    "sales":1569.464,
+    "profit":49.7193,
+    "quantity":62,
+    "orders":9
+  },
+  {
+    "customer_id":"GB-14530",
+    "customer_name":"George Bell",
+    "sales":1568.44,
+    "profit":7.8371,
+    "quantity":62,
+    "orders":11
+  },
+  {
+    "customer_id":"ON-18715",
+    "customer_name":"Odella Nelson",
+    "sales":1567.52,
+    "profit":-5.889,
+    "quantity":58,
+    "orders":9
+  },
+  {
+    "customer_id":"MV-17485",
+    "customer_name":"Mark Van Huff",
+    "sales":1560.05,
+    "profit":189.0258,
+    "quantity":52,
+    "orders":9
+  },
+  {
+    "customer_id":"MB-17305",
+    "customer_name":"Maria Bertelson",
+    "sales":1548.702,
+    "profit":212.425,
+    "quantity":63,
+    "orders":10
+  },
+  {
+    "customer_id":"BD-11620",
+    "customer_name":"Brian DeCherney",
+    "sales":1538.11,
+    "profit":206.7569,
+    "quantity":27,
+    "orders":6
+  },
+  {
+    "customer_id":"CH-12070",
+    "customer_name":"Cathy Hwang",
+    "sales":1537.236,
+    "profit":195.1511,
+    "quantity":13,
+    "orders":3
+  },
+  {
+    "customer_id":"BD-11725",
+    "customer_name":"Bruce Degenhardt",
+    "sales":1526.5,
+    "profit":333.9791,
+    "quantity":29,
+    "orders":6
+  },
+  {
+    "customer_id":"BV-11245",
+    "customer_name":"Benjamin Venier",
+    "sales":1523.273,
+    "profit":315.2214,
+    "quantity":49,
+    "orders":5
+  },
+  {
+    "customer_id":"KA-16525",
+    "customer_name":"Kelly Andreada",
+    "sales":1519.506,
+    "profit":234.9194,
+    "quantity":57,
+    "orders":7
+  },
+  {
+    "customer_id":"AB-10600",
+    "customer_name":"Ann Blume",
+    "sales":1515.862,
+    "profit":-274.9604,
+    "quantity":38,
+    "orders":4
+  },
+  {
+    "customer_id":"JG-15805",
+    "customer_name":"John Grady",
+    "sales":1507.018,
+    "profit":206.1019,
+    "quantity":46,
+    "orders":6
+  },
+  {
+    "customer_id":"DL-12865",
+    "customer_name":"Dan Lawera",
+    "sales":1503.112,
+    "profit":322.2449,
+    "quantity":51,
+    "orders":8
+  },
+  {
+    "customer_id":"ZD-21925",
+    "customer_name":"Zuschuss Donatelli",
+    "sales":1493.944,
+    "profit":249.1307,
+    "quantity":32,
+    "orders":5
+  },
+  {
+    "customer_id":"CM-12190",
+    "customer_name":"Charlotte Melton",
+    "sales":1475.144,
+    "profit":91.2033,
+    "quantity":21,
+    "orders":6
+  },
+  {
+    "customer_id":"LE-16810",
+    "customer_name":"Laurel Elliston",
+    "sales":1469.45,
+    "profit":161.7649,
+    "quantity":32,
+    "orders":6
+  },
+  {
+    "customer_id":"TB-21055",
+    "customer_name":"Ted Butterfield",
+    "sales":1467.881,
+    "profit":390.2113,
+    "quantity":66,
+    "orders":5
+  },
+  {
+    "customer_id":"PN-18775",
+    "customer_name":"Parhena Norris",
+    "sales":1467.152,
+    "profit":192.0396,
+    "quantity":47,
+    "orders":8
+  },
+  {
+    "customer_id":"RK-19300",
+    "customer_name":"Ralph Kennedy",
+    "sales":1460.192,
+    "profit":269.688,
+    "quantity":29,
+    "orders":3
+  },
+  {
+    "customer_id":"BN-11515",
+    "customer_name":"Bradley Nguyen",
+    "sales":1459.344,
+    "profit":340.7054,
+    "quantity":79,
+    "orders":5
+  },
+  {
+    "customer_id":"DL-13315",
+    "customer_name":"Delfina Latchford",
+    "sales":1458.258,
+    "profit":288.8732,
+    "quantity":74,
+    "orders":8
+  },
+  {
+    "customer_id":"PB-19150",
+    "customer_name":"Philip Brown",
+    "sales":1456.95,
+    "profit":280.6606,
+    "quantity":54,
+    "orders":8
+  },
+  {
+    "customer_id":"AG-10525",
+    "customer_name":"Andy Gerbode",
+    "sales":1455.038,
+    "profit":-152.7613,
+    "quantity":33,
+    "orders":4
+  },
+  {
+    "customer_id":"RM-19375",
+    "customer_name":"Raymond Messe",
+    "sales":1453.474,
+    "profit":392.1499,
+    "quantity":29,
+    "orders":6
+  },
+  {
+    "customer_id":"PK-18910",
+    "customer_name":"Paul Knutson",
+    "sales":1441.152,
+    "profit":-798.705,
+    "quantity":14,
+    "orders":2
+  },
+  {
+    "customer_id":"TD-20995",
+    "customer_name":"Tamara Dahlen",
+    "sales":1434.548,
+    "profit":88.1897,
+    "quantity":67,
+    "orders":9
+  },
+  {
+    "customer_id":"JW-16075",
+    "customer_name":"Julia West",
+    "sales":1428.731,
+    "profit":154.0637,
+    "quantity":38,
+    "orders":4
+  },
+  {
+    "customer_id":"MB-18085",
+    "customer_name":"Mick Brown",
+    "sales":1428.231,
+    "profit":117.8057,
+    "quantity":39,
+    "orders":7
+  },
+  {
+    "customer_id":"TT-21220",
+    "customer_name":"Thomas Thornton",
+    "sales":1427.044,
+    "profit":278.7371,
+    "quantity":55,
+    "orders":8
+  },
+  {
+    "customer_id":"CA-12310",
+    "customer_name":"Christine Abelman",
+    "sales":1421.954,
+    "profit":246.0218,
+    "quantity":25,
+    "orders":4
+  },
+  {
+    "customer_id":"RD-19720",
+    "customer_name":"Roger Demir",
+    "sales":1419.737,
+    "profit":207.3304,
+    "quantity":78,
+    "orders":10
+  },
+  {
+    "customer_id":"NL-18310",
+    "customer_name":"Nancy Lomonaco",
+    "sales":1418.09,
+    "profit":343.6381,
+    "quantity":44,
+    "orders":4
+  },
+  {
+    "customer_id":"JS-15595",
+    "customer_name":"Jill Stevenson",
+    "sales":1417.654,
+    "profit":-175.549,
+    "quantity":35,
+    "orders":4
+  },
+  {
+    "customer_id":"PM-18940",
+    "customer_name":"Paul MacIntyre",
+    "sales":1405.402,
+    "profit":157.8768,
+    "quantity":16,
+    "orders":3
+  },
+  {
+    "customer_id":"GA-14725",
+    "customer_name":"Guy Armstrong",
+    "sales":1398.382,
+    "profit":136.7079,
+    "quantity":79,
+    "orders":11
+  },
+  {
+    "customer_id":"CR-12820",
+    "customer_name":"Cyra Reiten",
+    "sales":1397.8724,
+    "profit":83.2703,
+    "quantity":26,
+    "orders":3
+  },
+  {
+    "customer_id":"NG-18430",
+    "customer_name":"Nathan Gelder",
+    "sales":1395.938,
+    "profit":217.0893,
+    "quantity":41,
+    "orders":5
+  },
+  {
+    "customer_id":"JE-15475",
+    "customer_name":"Jeremy Ellison",
+    "sales":1388.682,
+    "profit":276.2197,
+    "quantity":49,
+    "orders":6
+  },
+  {
+    "customer_id":"TB-21595",
+    "customer_name":"Troy Blackwell",
+    "sales":1387.559,
+    "profit":-136.4091,
+    "quantity":29,
+    "orders":5
+  },
+  {
+    "customer_id":"DM-13525",
+    "customer_name":"Don Miller",
+    "sales":1376.792,
+    "profit":199.7688,
+    "quantity":33,
+    "orders":3
+  },
+  {
+    "customer_id":"GH-14485",
+    "customer_name":"Gene Hale",
+    "sales":1361.244,
+    "profit":-95.4498,
+    "quantity":15,
+    "orders":2
+  },
+  {
+    "customer_id":"SB-20170",
+    "customer_name":"Sarah Bern",
+    "sales":1348.02,
+    "profit":157.6658,
+    "quantity":24,
+    "orders":3
+  },
+  {
+    "customer_id":"LM-17065",
+    "customer_name":"Liz MacKendrick",
+    "sales":1346.774,
+    "profit":-44.878,
+    "quantity":32,
+    "orders":5
+  },
+  {
+    "customer_id":"MG-17695",
+    "customer_name":"Maureen Gnade",
+    "sales":1342.282,
+    "profit":-398.7932,
+    "quantity":23,
+    "orders":3
+  },
+  {
+    "customer_id":"SJ-20215",
+    "customer_name":"Sarah Jordon",
+    "sales":1341.036,
+    "profit":-23.5137,
+    "quantity":35,
+    "orders":6
+  },
+  {
+    "customer_id":"BM-11785",
+    "customer_name":"Bryan Mills",
+    "sales":1338.842,
+    "profit":137.7439,
+    "quantity":44,
+    "orders":10
+  },
+  {
+    "customer_id":"BF-11005",
+    "customer_name":"Barry Franz",
+    "sales":1333.88,
+    "profit":-291.3811,
+    "quantity":26,
+    "orders":4
+  },
+  {
+    "customer_id":"SS-20140",
+    "customer_name":"Saphhira Shifley",
+    "sales":1324.028,
+    "profit":332.3487,
+    "quantity":86,
+    "orders":8
+  },
+  {
+    "customer_id":"DM-12955",
+    "customer_name":"Dario Medina",
+    "sales":1322.034,
+    "profit":108.7583,
+    "quantity":28,
+    "orders":7
+  },
+  {
+    "customer_id":"MT-18070",
+    "customer_name":"Michelle Tran",
+    "sales":1319.4498,
+    "profit":-23.6763,
+    "quantity":44,
+    "orders":4
+  },
+  {
+    "customer_id":"SJ-20500",
+    "customer_name":"Shirley Jackson",
+    "sales":1318.776,
+    "profit":68.0963,
+    "quantity":30,
+    "orders":5
+  },
+  {
+    "customer_id":"MM-17260",
+    "customer_name":"Magdelene Morse",
+    "sales":1314.023,
+    "profit":178.402,
+    "quantity":17,
+    "orders":4
+  },
+  {
+    "customer_id":"SP-20545",
+    "customer_name":"Sibella Parks",
+    "sales":1306.086,
+    "profit":-118.7757,
+    "quantity":43,
+    "orders":6
+  },
+  {
+    "customer_id":"MC-17575",
+    "customer_name":"Matt Collins",
+    "sales":1303.893,
+    "profit":210.7493,
+    "quantity":40,
+    "orders":8
+  },
+  {
+    "customer_id":"EK-13795",
+    "customer_name":"Eileen Kiefer",
+    "sales":1303.478,
+    "profit":97.1066,
+    "quantity":18,
+    "orders":4
+  },
+  {
+    "customer_id":"Co-12640",
+    "customer_name":"Corey-Lock",
+    "sales":1300.076,
+    "profit":205.6282,
+    "quantity":30,
+    "orders":5
+  },
+  {
+    "customer_id":"DO-13435",
+    "customer_name":"Denny Ordway",
+    "sales":1300.0315,
+    "profit":-38.9086,
+    "quantity":48,
+    "orders":9
+  },
+  {
+    "customer_id":"HR-14770",
+    "customer_name":"Hallie Redmond",
+    "sales":1299.288,
+    "profit":185.5794,
+    "quantity":38,
+    "orders":5
+  },
+  {
+    "customer_id":"GR-14560",
+    "customer_name":"Georgia Rosenberg",
+    "sales":1284.38,
+    "profit":359.8332,
+    "quantity":23,
+    "orders":2
+  },
+  {
+    "customer_id":"CS-11845",
+    "customer_name":"Cari Sayre",
+    "sales":1278.954,
+    "profit":185.3776,
+    "quantity":22,
+    "orders":5
+  },
+  {
+    "customer_id":"PS-18970",
+    "customer_name":"Paul Stevenson",
+    "sales":1278.639,
+    "profit":198.5099,
+    "quantity":52,
+    "orders":8
+  },
+  {
+    "customer_id":"SV-20815",
+    "customer_name":"Stuart Van",
+    "sales":1271.09,
+    "profit":199.6502,
+    "quantity":24,
+    "orders":4
+  },
+  {
+    "customer_id":"CL-11890",
+    "customer_name":"Carl Ludwig",
+    "sales":1262.014,
+    "profit":328.0847,
+    "quantity":24,
+    "orders":4
+  },
+  {
+    "customer_id":"LW-17125",
+    "customer_name":"Liz Willingham",
+    "sales":1259.04,
+    "profit":192.6312,
+    "quantity":15,
+    "orders":3
+  },
+  {
+    "customer_id":"ME-18010",
+    "customer_name":"Michelle Ellison",
+    "sales":1256.944,
+    "profit":107.3604,
+    "quantity":15,
+    "orders":4
+  },
+  {
+    "customer_id":"GM-14500",
+    "customer_name":"Gene McClure",
+    "sales":1255.682,
+    "profit":441.3185,
+    "quantity":53,
+    "orders":10
+  },
+  {
+    "customer_id":"SC-20680",
+    "customer_name":"Steve Carroll",
+    "sales":1254.64,
+    "profit":370.1578,
+    "quantity":26,
+    "orders":6
+  },
+  {
+    "customer_id":"MH-17620",
+    "customer_name":"Matt Hagelstein",
+    "sales":1252.8,
+    "profit":122.3612,
+    "quantity":19,
+    "orders":4
+  },
+  {
+    "customer_id":"ER-13855",
+    "customer_name":"Elpida Rittenbach",
+    "sales":1245.788,
+    "profit":-295.7398,
+    "quantity":27,
+    "orders":3
+  },
+  {
+    "customer_id":"TC-21475",
+    "customer_name":"Tony Chapman",
+    "sales":1244.976,
+    "profit":119.104,
+    "quantity":45,
+    "orders":9
+  },
+  {
+    "customer_id":"JW-15955",
+    "customer_name":"Joni Wasserman",
+    "sales":1244.086,
+    "profit":-29.5759,
+    "quantity":41,
+    "orders":7
+  },
+  {
+    "customer_id":"MG-17875",
+    "customer_name":"Michael Grace",
+    "sales":1242.833,
+    "profit":-470.7684,
+    "quantity":23,
+    "orders":5
+  },
+  {
+    "customer_id":"NP-18685",
+    "customer_name":"Nora Pelletier",
+    "sales":1228.698,
+    "profit":514.5017,
+    "quantity":23,
+    "orders":6
+  },
+  {
+    "customer_id":"PJ-18835",
+    "customer_name":"Patrick Jones",
+    "sales":1220.09,
+    "profit":442.1355,
+    "quantity":46,
+    "orders":8
+  },
+  {
+    "customer_id":"EH-14005",
+    "customer_name":"Erica Hernandez",
+    "sales":1219.53,
+    "profit":-94.1408,
+    "quantity":50,
+    "orders":7
+  },
+  {
+    "customer_id":"AB-10165",
+    "customer_name":"Alan Barnes",
+    "sales":1215.022,
+    "profit":262.7301,
+    "quantity":54,
+    "orders":10
+  },
+  {
+    "customer_id":"JL-15130",
+    "customer_name":"Jack Lebron",
+    "sales":1214.956,
+    "profit":-207.7956,
+    "quantity":42,
+    "orders":6
+  },
+  {
+    "customer_id":"CD-12280",
+    "customer_name":"Christina DeMoss",
+    "sales":1205.584,
+    "profit":233.0274,
+    "quantity":39,
+    "orders":2
+  },
+  {
+    "customer_id":"MD-17860",
+    "customer_name":"Michael Dominguez",
+    "sales":1204.91,
+    "profit":-4.0403,
+    "quantity":45,
+    "orders":5
+  },
+  {
+    "customer_id":"DW-13585",
+    "customer_name":"Dorothy Wardle",
+    "sales":1204.854,
+    "profit":-266.8966,
+    "quantity":44,
+    "orders":7
+  },
+  {
+    "customer_id":"EB-14170",
+    "customer_name":"Evan Bailliet",
+    "sales":1186.326,
+    "profit":282.1701,
+    "quantity":20,
+    "orders":6
+  },
+  {
+    "customer_id":"BP-11230",
+    "customer_name":"Benjamin Patterson",
+    "sales":1181.49,
+    "profit":-197.2695,
+    "quantity":14,
+    "orders":5
+  },
+  {
+    "customer_id":"DC-13285",
+    "customer_name":"Debra Catini",
+    "sales":1174.618,
+    "profit":132.0682,
+    "quantity":37,
+    "orders":5
+  },
+  {
+    "customer_id":"AT-10435",
+    "customer_name":"Alyssa Tate",
+    "sales":1171.814,
+    "profit":100.8768,
+    "quantity":28,
+    "orders":6
+  },
+  {
+    "customer_id":"JR-15670",
+    "customer_name":"Jim Radford",
+    "sales":1156.658,
+    "profit":-785.1645,
+    "quantity":14,
+    "orders":2
+  },
+  {
+    "customer_id":"DB-13660",
+    "customer_name":"Duane Benoit",
+    "sales":1155.202,
+    "profit":177.6735,
+    "quantity":33,
+    "orders":7
+  },
+  {
+    "customer_id":"CG-12520",
+    "customer_name":"Claire Gute",
+    "sales":1148.78,
+    "profit":169.9344,
+    "quantity":14,
+    "orders":3
+  },
+  {
+    "customer_id":"KC-16675",
+    "customer_name":"Kimberly Carter",
+    "sales":1146.05,
+    "profit":156.7797,
+    "quantity":40,
+    "orders":4
+  },
+  {
+    "customer_id":"RD-19810",
+    "customer_name":"Ross DeVincentis",
+    "sales":1137.616,
+    "profit":318.4625,
+    "quantity":63,
+    "orders":8
+  },
+  {
+    "customer_id":"CW-11905",
+    "customer_name":"Carl Weiss",
+    "sales":1136.592,
+    "profit":370.8298,
+    "quantity":40,
+    "orders":6
+  },
+  {
+    "customer_id":"JS-15685",
+    "customer_name":"Jim Sink",
+    "sales":1131.064,
+    "profit":-54.8692,
+    "quantity":42,
+    "orders":4
+  },
+  {
+    "customer_id":"DV-13045",
+    "customer_name":"Darrin Van Huff",
+    "sales":1119.483,
+    "profit":-427.184,
+    "quantity":28,
+    "orders":5
+  },
+  {
+    "customer_id":"TM-21490",
+    "customer_name":"Tony Molinari",
+    "sales":1094.678,
+    "profit":292.521,
+    "quantity":12,
+    "orders":3
+  },
+  {
+    "customer_id":"JO-15550",
+    "customer_name":"Jesus Ocampo",
+    "sales":1090.838,
+    "profit":167.6709,
+    "quantity":42,
+    "orders":5
+  },
+  {
+    "customer_id":"SW-20245",
+    "customer_name":"Scot Wooten",
+    "sales":1085.078,
+    "profit":-19.6062,
+    "quantity":33,
+    "orders":7
+  },
+  {
+    "customer_id":"JF-15490",
+    "customer_name":"Jeremy Farry",
+    "sales":1082.918,
+    "profit":-18.0673,
+    "quantity":36,
+    "orders":11
+  },
+  {
+    "customer_id":"DB-13360",
+    "customer_name":"Dennis Bolton",
+    "sales":1081.466,
+    "profit":291.0085,
+    "quantity":28,
+    "orders":5
+  },
+  {
+    "customer_id":"DW-13195",
+    "customer_name":"David Wiener",
+    "sales":1080.751,
+    "profit":-86.8738,
+    "quantity":39,
+    "orders":6
+  },
+  {
+    "customer_id":"CS-12490",
+    "customer_name":"Cindy Schnelling",
+    "sales":1077.2285,
+    "profit":-302.8761,
+    "quantity":33,
+    "orders":4
+  },
+  {
+    "customer_id":"AR-10345",
+    "customer_name":"Alex Russell",
+    "sales":1073.354,
+    "profit":-215.9722,
+    "quantity":21,
+    "orders":6
+  },
+  {
+    "customer_id":"PC-19000",
+    "customer_name":"Pauline Chand",
+    "sales":1061.488,
+    "profit":-184.3364,
+    "quantity":18,
+    "orders":2
+  },
+  {
+    "customer_id":"DP-13165",
+    "customer_name":"David Philippe",
+    "sales":1058.616,
+    "profit":-40.9376,
+    "quantity":20,
+    "orders":2
+  },
+  {
+    "customer_id":"JC-15385",
+    "customer_name":"Jenna Caffey",
+    "sales":1058.108,
+    "profit":502.9244,
+    "quantity":14,
+    "orders":1
+  },
+  {
+    "customer_id":"PO-19195",
+    "customer_name":"Phillina Ober",
+    "sales":1056.858,
+    "profit":-49.7009,
+    "quantity":32,
+    "orders":5
+  },
+  {
+    "customer_id":"AA-10375",
+    "customer_name":"Allen Armold",
+    "sales":1056.39,
+    "profit":277.3824,
+    "quantity":41,
+    "orders":9
+  },
+  {
+    "customer_id":"VS-21820",
+    "customer_name":"Vivek Sundaresam",
+    "sales":1055.981,
+    "profit":-262.8093,
+    "quantity":38,
+    "orders":4
+  },
+  {
+    "customer_id":"DP-13000",
+    "customer_name":"Darren Powers",
+    "sales":1050.636,
+    "profit":241.4524,
+    "quantity":58,
+    "orders":9
+  },
+  {
+    "customer_id":"DH-13675",
+    "customer_name":"Duane Huffman",
+    "sales":1043.096,
+    "profit":116.667,
+    "quantity":41,
+    "orders":4
+  },
+  {
+    "customer_id":"SM-20905",
+    "customer_name":"Susan MacKendrick",
+    "sales":1043.041,
+    "profit":-237.2885,
+    "quantity":20,
+    "orders":1
+  },
+  {
+    "customer_id":"EM-14095",
+    "customer_name":"Eudokia Martin",
+    "sales":1041.042,
+    "profit":240.2362,
+    "quantity":34,
+    "orders":4
+  },
+  {
+    "customer_id":"TC-21145",
+    "customer_name":"Theresa Coyne",
+    "sales":1038.26,
+    "profit":265.5332,
+    "quantity":17,
+    "orders":1
+  },
+  {
+    "customer_id":"MK-18160",
+    "customer_name":"Mike Kennedy",
+    "sales":1031.602,
+    "profit":227.8338,
+    "quantity":43,
+    "orders":4
+  },
+  {
+    "customer_id":"TH-21235",
+    "customer_name":"Tiffany House",
+    "sales":1022.201,
+    "profit":92.729,
+    "quantity":40,
+    "orders":8
+  },
+  {
+    "customer_id":"SW-20350",
+    "customer_name":"Sean Wendt",
+    "sales":1019.044,
+    "profit":95.8383,
+    "quantity":25,
+    "orders":3
+  },
+  {
+    "customer_id":"LS-17200",
+    "customer_name":"Luke Schmidt",
+    "sales":1010.256,
+    "profit":244.197,
+    "quantity":54,
+    "orders":6
+  },
+  {
+    "customer_id":"RB-19330",
+    "customer_name":"Randy Bradley",
+    "sales":1008.196,
+    "profit":-164.4062,
+    "quantity":16,
+    "orders":2
+  },
+  {
+    "customer_id":"LS-17245",
+    "customer_name":"Lynn Smith",
+    "sales":1008.136,
+    "profit":348.3584,
+    "quantity":47,
+    "orders":6
+  },
+  {
+    "customer_id":"BG-11740",
+    "customer_name":"Bruce Geld",
+    "sales":1006.356,
+    "profit":119.3479,
+    "quantity":22,
+    "orders":6
+  },
+  {
+    "customer_id":"VP-21730",
+    "customer_name":"Victor Preis",
+    "sales":993.902,
+    "profit":205.3888,
+    "quantity":18,
+    "orders":3
+  },
+  {
+    "customer_id":"KB-16600",
+    "customer_name":"Ken Brennan",
+    "sales":983.922,
+    "profit":293.5524,
+    "quantity":29,
+    "orders":7
+  },
+  {
+    "customer_id":"BP-11050",
+    "customer_name":"Barry Pond",
+    "sales":983.42,
+    "profit":209.783,
+    "quantity":30,
+    "orders":5
+  },
+  {
+    "customer_id":"TS-21340",
+    "customer_name":"Toby Swindell",
+    "sales":974.782,
+    "profit":-184.9789,
+    "quantity":51,
+    "orders":5
+  },
+  {
+    "customer_id":"RD-19930",
+    "customer_name":"Russell D'Ascenzo",
+    "sales":970.942,
+    "profit":35.0574,
+    "quantity":33,
+    "orders":4
+  },
+  {
+    "customer_id":"AB-10150",
+    "customer_name":"Aimee Bixby",
+    "sales":966.71,
+    "profit":313.6597,
+    "quantity":37,
+    "orders":5
+  },
+  {
+    "customer_id":"RC-19825",
+    "customer_name":"Roy Collins",
+    "sales":966.409,
+    "profit":63.9914,
+    "quantity":29,
+    "orders":6
+  },
+  {
+    "customer_id":"SS-20875",
+    "customer_name":"Sung Shariari",
+    "sales":964.636,
+    "profit":-75.586,
+    "quantity":39,
+    "orders":5
+  },
+  {
+    "customer_id":"JH-15910",
+    "customer_name":"Jonathan Howell",
+    "sales":959.477,
+    "profit":-13.5545,
+    "quantity":35,
+    "orders":7
+  },
+  {
+    "customer_id":"JF-15295",
+    "customer_name":"Jason Fortune-",
+    "sales":955.124,
+    "profit":97.289,
+    "quantity":42,
+    "orders":5
+  },
+  {
+    "customer_id":"RP-19270",
+    "customer_name":"Rachel Payne",
+    "sales":954.6452,
+    "profit":59.5384,
+    "quantity":47,
+    "orders":4
+  },
+  {
+    "customer_id":"BS-11800",
+    "customer_name":"Bryan Spruell",
+    "sales":949.43,
+    "profit":194.0516,
+    "quantity":22,
+    "orders":2
+  },
+  {
+    "customer_id":"RF-19840",
+    "customer_name":"Roy Franz\u00f6sisch",
+    "sales":945.222,
+    "profit":280.0261,
+    "quantity":45,
+    "orders":8
+  },
+  {
+    "customer_id":"EB-13930",
+    "customer_name":"Eric Barreto",
+    "sales":944.6,
+    "profit":0.6042,
+    "quantity":24,
+    "orders":5
+  },
+  {
+    "customer_id":"MF-17665",
+    "customer_name":"Maureen Fritzler",
+    "sales":937.039,
+    "profit":-341.5265,
+    "quantity":36,
+    "orders":5
+  },
+  {
+    "customer_id":"EM-13960",
+    "customer_name":"Eric Murdock",
+    "sales":933.704,
+    "profit":102.296,
+    "quantity":18,
+    "orders":5
+  },
+  {
+    "customer_id":"AC-10420",
+    "customer_name":"Alyssa Crouse",
+    "sales":925.8,
+    "profit":-62.1342,
+    "quantity":17,
+    "orders":3
+  },
+  {
+    "customer_id":"EH-14185",
+    "customer_name":"Evan Henry",
+    "sales":923.884,
+    "profit":242.1107,
+    "quantity":22,
+    "orders":6
+  },
+  {
+    "customer_id":"MO-17500",
+    "customer_name":"Mary O'Rourke",
+    "sales":922.487,
+    "profit":59.3577,
+    "quantity":15,
+    "orders":4
+  },
+  {
+    "customer_id":"AB-10255",
+    "customer_name":"Alejandro Ballentine",
+    "sales":914.532,
+    "profit":264.5675,
+    "quantity":39,
+    "orders":9
+  },
+  {
+    "customer_id":"KB-16405",
+    "customer_name":"Katrina Bavinger",
+    "sales":908.821,
+    "profit":274.297,
+    "quantity":25,
+    "orders":3
+  },
+  {
+    "customer_id":"CG-12040",
+    "customer_name":"Catherine Glotzbach",
+    "sales":904.468,
+    "profit":86.5106,
+    "quantity":37,
+    "orders":6
+  },
+  {
+    "customer_id":"SC-20575",
+    "customer_name":"Sonia Cooley",
+    "sales":902.728,
+    "profit":100.2253,
+    "quantity":30,
+    "orders":5
+  },
+  {
+    "customer_id":"JB-15925",
+    "customer_name":"Joni Blumstein",
+    "sales":900.552,
+    "profit":-286.9808,
+    "quantity":32,
+    "orders":3
+  },
+  {
+    "customer_id":"HZ-14950",
+    "customer_name":"Henia Zydlo",
+    "sales":886.52,
+    "profit":-130.3879,
+    "quantity":21,
+    "orders":5
+  },
+  {
+    "customer_id":"AB-10015",
+    "customer_name":"Aaron Bergman",
+    "sales":886.156,
+    "profit":129.3465,
+    "quantity":13,
+    "orders":3
+  },
+  {
+    "customer_id":"RC-19960",
+    "customer_name":"Ryan Crowe",
+    "sales":885.752,
+    "profit":10.5633,
+    "quantity":44,
+    "orders":6
+  },
+  {
+    "customer_id":"CS-12130",
+    "customer_name":"Chad Sievert",
+    "sales":884.64,
+    "profit":143.8339,
+    "quantity":28,
+    "orders":4
+  },
+  {
+    "customer_id":"HE-14800",
+    "customer_name":"Harold Engle",
+    "sales":883.532,
+    "profit":274.4028,
+    "quantity":44,
+    "orders":4
+  },
+  {
+    "customer_id":"SK-19990",
+    "customer_name":"Sally Knutson",
+    "sales":883.409,
+    "profit":168.7933,
+    "quantity":19,
+    "orders":3
+  },
+  {
+    "customer_id":"RE-19450",
+    "customer_name":"Richard Eichhorn",
+    "sales":876.696,
+    "profit":209.2294,
+    "quantity":47,
+    "orders":5
+  },
+  {
+    "customer_id":"JM-15655",
+    "customer_name":"Jim Mitchum",
+    "sales":864.947,
+    "profit":117.204,
+    "quantity":41,
+    "orders":5
+  },
+  {
+    "customer_id":"JR-15700",
+    "customer_name":"Jocasta Rupert",
+    "sales":863.88,
+    "profit":107.985,
+    "quantity":3,
+    "orders":1
+  },
+  {
+    "customer_id":"AF-10885",
+    "customer_name":"Art Foster",
+    "sales":861.565,
+    "profit":-163.1175,
+    "quantity":37,
+    "orders":4
+  },
+  {
+    "customer_id":"JC-16105",
+    "customer_name":"Julie Creighton",
+    "sales":858.576,
+    "profit":201.5952,
+    "quantity":43,
+    "orders":5
+  },
+  {
+    "customer_id":"MS-17980",
+    "customer_name":"Michael Stewart",
+    "sales":855.116,
+    "profit":55.226,
+    "quantity":49,
+    "orders":6
+  },
+  {
+    "customer_id":"VF-21715",
+    "customer_name":"Vicky Freymann",
+    "sales":847.944,
+    "profit":-96.278,
+    "quantity":35,
+    "orders":5
+  },
+  {
+    "customer_id":"VG-21790",
+    "customer_name":"Vivek Gonzalez",
+    "sales":846.01,
+    "profit":143.6268,
+    "quantity":32,
+    "orders":6
+  },
+  {
+    "customer_id":"CS-12175",
+    "customer_name":"Charles Sheldon",
+    "sales":844.458,
+    "profit":113.1405,
+    "quantity":30,
+    "orders":5
+  },
+  {
+    "customer_id":"TB-21355",
+    "customer_name":"Todd Boyes",
+    "sales":834.328,
+    "profit":268.967,
+    "quantity":44,
+    "orders":5
+  },
+  {
+    "customer_id":"AS-10630",
+    "customer_name":"Ann Steele",
+    "sales":833.398,
+    "profit":136.4919,
+    "quantity":34,
+    "orders":7
+  },
+  {
+    "customer_id":"EH-13990",
+    "customer_name":"Erica Hackney",
+    "sales":825.95,
+    "profit":150.3759,
+    "quantity":20,
+    "orders":6
+  },
+  {
+    "customer_id":"TB-21190",
+    "customer_name":"Thomas Brumley",
+    "sales":816.174,
+    "profit":179.0038,
+    "quantity":23,
+    "orders":4
+  },
+  {
+    "customer_id":"AM-10360",
+    "customer_name":"Alice McCarthy",
+    "sales":814.012,
+    "profit":194.9878,
+    "quantity":48,
+    "orders":5
+  },
+  {
+    "customer_id":"BM-11575",
+    "customer_name":"Brendan Murry",
+    "sales":808.162,
+    "profit":95.5816,
+    "quantity":22,
+    "orders":6
+  },
+  {
+    "customer_id":"DK-13150",
+    "customer_name":"David Kendrick",
+    "sales":797.832,
+    "profit":249.9447,
+    "quantity":20,
+    "orders":2
+  },
+  {
+    "customer_id":"MC-17635",
+    "customer_name":"Matthew Clasen",
+    "sales":795.154,
+    "profit":-247.9435,
+    "quantity":33,
+    "orders":4
+  },
+  {
+    "customer_id":"BF-11275",
+    "customer_name":"Beth Fritzler",
+    "sales":791.99,
+    "profit":25.8702,
+    "quantity":11,
+    "orders":3
+  },
+  {
+    "customer_id":"HG-14845",
+    "customer_name":"Harry Greene",
+    "sales":785.628,
+    "profit":147.0032,
+    "quantity":31,
+    "orders":5
+  },
+  {
+    "customer_id":"MG-17890",
+    "customer_name":"Michael Granlund",
+    "sales":776.384,
+    "profit":171.7372,
+    "quantity":35,
+    "orders":9
+  },
+  {
+    "customer_id":"MM-18280",
+    "customer_name":"Muhammed MacIntyre",
+    "sales":775.414,
+    "profit":58.8916,
+    "quantity":32,
+    "orders":9
+  },
+  {
+    "customer_id":"SF-20065",
+    "customer_name":"Sandra Flanagan",
+    "sales":763.546,
+    "profit":228.1623,
+    "quantity":35,
+    "orders":7
+  },
+  {
+    "customer_id":"SW-20755",
+    "customer_name":"Steven Ward",
+    "sales":758.696,
+    "profit":68.2416,
+    "quantity":27,
+    "orders":2
+  },
+  {
+    "customer_id":"LP-17080",
+    "customer_name":"Liz Pelletier",
+    "sales":756.606,
+    "profit":110.7813,
+    "quantity":39,
+    "orders":4
+  },
+  {
+    "customer_id":"Dl-13600",
+    "customer_name":"Dorris liebe",
+    "sales":755.602,
+    "profit":175.2388,
+    "quantity":19,
+    "orders":5
+  },
+  {
+    "customer_id":"IG-15085",
+    "customer_name":"Ivan Gibson",
+    "sales":744.574,
+    "profit":320.4982,
+    "quantity":19,
+    "orders":4
+  },
+  {
+    "customer_id":"BB-10990",
+    "customer_name":"Barry Blumstein",
+    "sales":744.34,
+    "profit":11.5839,
+    "quantity":26,
+    "orders":5
+  },
+  {
+    "customer_id":"TC-21535",
+    "customer_name":"Tracy Collins",
+    "sales":742.558,
+    "profit":217.933,
+    "quantity":28,
+    "orders":7
+  },
+  {
+    "customer_id":"ML-18040",
+    "customer_name":"Michelle Lonsdale",
+    "sales":742.082,
+    "profit":138.7162,
+    "quantity":18,
+    "orders":3
+  },
+  {
+    "customer_id":"RH-19555",
+    "customer_name":"Ritsa Hightower",
+    "sales":740.382,
+    "profit":0.3057,
+    "quantity":11,
+    "orders":2
+  },
+  {
+    "customer_id":"PB-18805",
+    "customer_name":"Patrick Bzostek",
+    "sales":740.356,
+    "profit":229.2257,
+    "quantity":54,
+    "orders":3
+  },
+  {
+    "customer_id":"AH-10585",
+    "customer_name":"Angele Hood",
+    "sales":738.504,
+    "profit":83.963,
+    "quantity":17,
+    "orders":4
+  },
+  {
+    "customer_id":"HM-14980",
+    "customer_name":"Henry MacAllister",
+    "sales":736.276,
+    "profit":117.2755,
+    "quantity":29,
+    "orders":4
+  },
+  {
+    "customer_id":"PH-18790",
+    "customer_name":"Patricia Hirasaki",
+    "sales":729.648,
+    "profit":47.8878,
+    "quantity":6,
+    "orders":1
+  },
+  {
+    "customer_id":"PA-19060",
+    "customer_name":"Pete Armstrong",
+    "sales":729.408,
+    "profit":225.8588,
+    "quantity":27,
+    "orders":6
+  },
+  {
+    "customer_id":"JJ-15445",
+    "customer_name":"Jennifer Jackson",
+    "sales":709.178,
+    "profit":200.5558,
+    "quantity":25,
+    "orders":5
+  },
+  {
+    "customer_id":"JD-16060",
+    "customer_name":"Julia Dunbar",
+    "sales":695.442,
+    "profit":111.1141,
+    "quantity":17,
+    "orders":3
+  },
+  {
+    "customer_id":"PB-19105",
+    "customer_name":"Peter B\u00fchler",
+    "sales":688.324,
+    "profit":218.1597,
+    "quantity":18,
+    "orders":4
+  },
+  {
+    "customer_id":"EH-13945",
+    "customer_name":"Eric Hoffmann",
+    "sales":684.171,
+    "profit":53.5398,
+    "quantity":72,
+    "orders":8
+  },
+  {
+    "customer_id":"TR-21325",
+    "customer_name":"Toby Ritter",
+    "sales":675.942,
+    "profit":220.3644,
+    "quantity":22,
+    "orders":5
+  },
+  {
+    "customer_id":"AG-10330",
+    "customer_name":"Alex Grayson",
+    "sales":660.972,
+    "profit":-5.1371,
+    "quantity":47,
+    "orders":5
+  },
+  {
+    "customer_id":"BK-11260",
+    "customer_name":"Berenike Kampe",
+    "sales":659.138,
+    "profit":-63.7644,
+    "quantity":58,
+    "orders":6
+  },
+  {
+    "customer_id":"BD-11770",
+    "customer_name":"Bryan Davis",
+    "sales":658.466,
+    "profit":141.265,
+    "quantity":21,
+    "orders":6
+  },
+  {
+    "customer_id":"AC-10660",
+    "customer_name":"Anna Chung",
+    "sales":657.316,
+    "profit":-28.7004,
+    "quantity":16,
+    "orders":5
+  },
+  {
+    "customer_id":"AW-10840",
+    "customer_name":"Anthony Witt",
+    "sales":649.376,
+    "profit":65.7725,
+    "quantity":24,
+    "orders":4
+  },
+  {
+    "customer_id":"LO-17170",
+    "customer_name":"Lori Olson",
+    "sales":644.35,
+    "profit":150.1712,
+    "quantity":34,
+    "orders":5
+  },
+  {
+    "customer_id":"JB-16000",
+    "customer_name":"Joy Bell-",
+    "sales":644.1188,
+    "profit":126.7649,
+    "quantity":32,
+    "orders":7
+  },
+  {
+    "customer_id":"CD-11980",
+    "customer_name":"Carol Darley",
+    "sales":639.766,
+    "profit":-206.7172,
+    "quantity":22,
+    "orders":3
+  },
+  {
+    "customer_id":"MR-17545",
+    "customer_name":"Mathew Reese",
+    "sales":639.178,
+    "profit":162.9363,
+    "quantity":29,
+    "orders":4
+  },
+  {
+    "customer_id":"AJ-10960",
+    "customer_name":"Astrea Jones",
+    "sales":629.248,
+    "profit":60.4265,
+    "quantity":22,
+    "orders":3
+  },
+  {
+    "customer_id":"HO-15231",
+    "customer_name":"Harry Olson",
+    "sales":620.24,
+    "profit":161.2624,
+    "quantity":4,
+    "orders":2
+  },
+  {
+    "customer_id":"RR-19315",
+    "customer_name":"Ralph Ritter",
+    "sales":615.932,
+    "profit":-73.835,
+    "quantity":7,
+    "orders":2
+  },
+  {
+    "customer_id":"SS-20515",
+    "customer_name":"Shirley Schmidt",
+    "sales":613.4,
+    "profit":199.9345,
+    "quantity":36,
+    "orders":3
+  },
+  {
+    "customer_id":"BG-18435",
+    "customer_name":"Bruce Galang",
+    "sales":609.88,
+    "profit":208.6624,
+    "quantity":45,
+    "orders":5
+  },
+  {
+    "customer_id":"BT-11440",
+    "customer_name":"Bobby Trafton",
+    "sales":603.876,
+    "profit":-77.5256,
+    "quantity":16,
+    "orders":4
+  },
+  {
+    "customer_id":"BF-10975",
+    "customer_name":"Barbara Fisher",
+    "sales":599.798,
+    "profit":227.4384,
+    "quantity":38,
+    "orders":7
+  },
+  {
+    "customer_id":"MZ-17335",
+    "customer_name":"Maria Zettner",
+    "sales":593.606,
+    "profit":85.0191,
+    "quantity":11,
+    "orders":4
+  },
+  {
+    "customer_id":"DL-13330",
+    "customer_name":"Denise Leinenbach",
+    "sales":585.02,
+    "profit":222.6812,
+    "quantity":32,
+    "orders":4
+  },
+  {
+    "customer_id":"AS-10240",
+    "customer_name":"Alan Shonely",
+    "sales":584.608,
+    "profit":33.7158,
+    "quantity":39,
+    "orders":7
+  },
+  {
+    "customer_id":"BD-11635",
+    "customer_name":"Brian Derr",
+    "sales":582.646,
+    "profit":141.534,
+    "quantity":19,
+    "orders":3
+  },
+  {
+    "customer_id":"NK-18490",
+    "customer_name":"Neil Knudson",
+    "sales":572.048,
+    "profit":121.2177,
+    "quantity":51,
+    "orders":7
+  },
+  {
+    "customer_id":"CM-11935",
+    "customer_name":"Carlos Meador",
+    "sales":565.392,
+    "profit":-43.7324,
+    "quantity":18,
+    "orders":2
+  },
+  {
+    "customer_id":"CS-12460",
+    "customer_name":"Chuck Sachs",
+    "sales":550.644,
+    "profit":156.2593,
+    "quantity":13,
+    "orders":2
+  },
+  {
+    "customer_id":"CS-11860",
+    "customer_name":"Cari Schnelling",
+    "sales":537.632,
+    "profit":105.8275,
+    "quantity":16,
+    "orders":6
+  },
+  {
+    "customer_id":"JH-15820",
+    "customer_name":"John Huston",
+    "sales":528.91,
+    "profit":26.0822,
+    "quantity":29,
+    "orders":6
+  },
+  {
+    "customer_id":"RB-19570",
+    "customer_name":"Rob Beeghly",
+    "sales":528.546,
+    "profit":76.8879,
+    "quantity":35,
+    "orders":5
+  },
+  {
+    "customer_id":"JP-11135",
+    "customer_name":"James Peterman",
+    "sales":515.2,
+    "profit":186.676,
+    "quantity":45,
+    "orders":5
+  },
+  {
+    "customer_id":"AY-10555",
+    "customer_name":"Andy Yotov",
+    "sales":497.014,
+    "profit":103.3499,
+    "quantity":34,
+    "orders":4
+  },
+  {
+    "customer_id":"CR-12625",
+    "customer_name":"Corey Roper",
+    "sales":475.9,
+    "profit":144.7594,
+    "quantity":14,
+    "orders":3
+  },
+  {
+    "customer_id":"MS-17530",
+    "customer_name":"MaryBeth Skach",
+    "sales":475.656,
+    "profit":84.0268,
+    "quantity":21,
+    "orders":4
+  },
+  {
+    "customer_id":"JS-15940",
+    "customer_name":"Joni Sundaresam",
+    "sales":469.169,
+    "profit":-327.9336,
+    "quantity":37,
+    "orders":5
+  },
+  {
+    "customer_id":"EC-14050",
+    "customer_name":"Erin Creighton",
+    "sales":461.914,
+    "profit":96.4256,
+    "quantity":37,
+    "orders":5
+  },
+  {
+    "customer_id":"KM-16660",
+    "customer_name":"Khloe Miller",
+    "sales":453.538,
+    "profit":91.1391,
+    "quantity":30,
+    "orders":5
+  },
+  {
+    "customer_id":"KW-16570",
+    "customer_name":"Kelly Williams",
+    "sales":449.096,
+    "profit":107.927,
+    "quantity":22,
+    "orders":4
+  },
+  {
+    "customer_id":"TT-21265",
+    "customer_name":"Tim Taslimi",
+    "sales":439.5,
+    "profit":93.9162,
+    "quantity":8,
+    "orders":3
+  },
+  {
+    "customer_id":"ST-20530",
+    "customer_name":"Shui Tom",
+    "sales":433.34,
+    "profit":84.4419,
+    "quantity":33,
+    "orders":7
+  },
+  {
+    "customer_id":"VG-21805",
+    "customer_name":"Vivek Grady",
+    "sales":427.372,
+    "profit":-52.333,
+    "quantity":16,
+    "orders":5
+  },
+  {
+    "customer_id":"SS-20590",
+    "customer_name":"Sonia Sunley",
+    "sales":418.49,
+    "profit":135.5401,
+    "quantity":17,
+    "orders":6
+  },
+  {
+    "customer_id":"BT-11485",
+    "customer_name":"Brad Thomas",
+    "sales":415.196,
+    "profit":126.8694,
+    "quantity":11,
+    "orders":2
+  },
+  {
+    "customer_id":"MH-17440",
+    "customer_name":"Mark Haberlin",
+    "sales":400.016,
+    "profit":61.4286,
+    "quantity":25,
+    "orders":4
+  },
+  {
+    "customer_id":"BW-11065",
+    "customer_name":"Barry Weirich",
+    "sales":385.516,
+    "profit":-58.2866,
+    "quantity":8,
+    "orders":3
+  },
+  {
+    "customer_id":"JD-16015",
+    "customer_name":"Joy Daniels",
+    "sales":385.43,
+    "profit":26.7605,
+    "quantity":39,
+    "orders":6
+  },
+  {
+    "customer_id":"JK-15325",
+    "customer_name":"Jason Klamczynski",
+    "sales":383.812,
+    "profit":55.3277,
+    "quantity":15,
+    "orders":3
+  },
+  {
+    "customer_id":"NC-19470",
+    "customer_name":"Neil Cohen",
+    "sales":382.144,
+    "profit":-52.742,
+    "quantity":26,
+    "orders":6
+  },
+  {
+    "customer_id":"VM-21835",
+    "customer_name":"Vivian Mathis",
+    "sales":380.69,
+    "profit":116.6373,
+    "quantity":25,
+    "orders":5
+  },
+  {
+    "customer_id":"NF-18475",
+    "customer_name":"Neil Franz\u00f6sisch",
+    "sales":377.162,
+    "profit":85.9278,
+    "quantity":13,
+    "orders":4
+  },
+  {
+    "customer_id":"MS-17830",
+    "customer_name":"Melanie Seite",
+    "sales":370.348,
+    "profit":19.4312,
+    "quantity":14,
+    "orders":4
+  },
+  {
+    "customer_id":"LS-17230",
+    "customer_name":"Lycoris Saunders",
+    "sales":368.88,
+    "profit":39.1952,
+    "quantity":16,
+    "orders":3
+  },
+  {
+    "customer_id":"AG-10300",
+    "customer_name":"Aleksandra Gannaway",
+    "sales":367.548,
+    "profit":59.2884,
+    "quantity":16,
+    "orders":4
+  },
+  {
+    "customer_id":"EM-14200",
+    "customer_name":"Evan Minnotte",
+    "sales":366.822,
+    "profit":21.7721,
+    "quantity":13,
+    "orders":3
+  },
+  {
+    "customer_id":"HJ-14875",
+    "customer_name":"Heather Jas",
+    "sales":358.1,
+    "profit":98.6548,
+    "quantity":21,
+    "orders":5
+  },
+  {
+    "customer_id":"DW-13540",
+    "customer_name":"Don Weiss",
+    "sales":344.08,
+    "profit":69.6672,
+    "quantity":21,
+    "orders":5
+  },
+  {
+    "customer_id":"LT-16765",
+    "customer_name":"Larry Tron",
+    "sales":329.876,
+    "profit":59.036,
+    "quantity":8,
+    "orders":3
+  },
+  {
+    "customer_id":"BD-11560",
+    "customer_name":"Brendan Dodson",
+    "sales":320.54,
+    "profit":116.714,
+    "quantity":11,
+    "orders":2
+  },
+  {
+    "customer_id":"LH-17020",
+    "customer_name":"Lisa Hazard",
+    "sales":318.239,
+    "profit":-242.7399,
+    "quantity":34,
+    "orders":4
+  },
+  {
+    "customer_id":"JH-15430",
+    "customer_name":"Jennifer Halladay",
+    "sales":309.281,
+    "profit":-24.0771,
+    "quantity":29,
+    "orders":4
+  },
+  {
+    "customer_id":"JM-15580",
+    "customer_name":"Jill Matthias",
+    "sales":303.948,
+    "profit":113.1204,
+    "quantity":26,
+    "orders":5
+  },
+  {
+    "customer_id":"CM-12445",
+    "customer_name":"Chuck Magee",
+    "sales":287.99,
+    "profit":64.4296,
+    "quantity":32,
+    "orders":3
+  },
+  {
+    "customer_id":"LH-16750",
+    "customer_name":"Larry Hughes",
+    "sales":287.426,
+    "profit":12.6277,
+    "quantity":12,
+    "orders":3
+  },
+  {
+    "customer_id":"HO-15234",
+    "customer_name":"Harry Olson",
+    "sales":281.34,
+    "profit":109.7226,
+    "quantity":6,
+    "orders":2
+  },
+  {
+    "customer_id":"SC-20845",
+    "customer_name":"Sung Chung",
+    "sales":280.632,
+    "profit":31.1757,
+    "quantity":13,
+    "orders":2
+  },
+  {
+    "customer_id":"SC-20800",
+    "customer_name":"Stuart Calhoun",
+    "sales":279.256,
+    "profit":51.8252,
+    "quantity":11,
+    "orders":4
+  },
+  {
+    "customer_id":"NB-18580",
+    "customer_name":"Nicole Brennan",
+    "sales":273.872,
+    "profit":24.7888,
+    "quantity":7,
+    "orders":2
+  },
+  {
+    "customer_id":"BF-11080",
+    "customer_name":"Bart Folk",
+    "sales":272.95,
+    "profit":110.9272,
+    "quantity":29,
+    "orders":3
+  },
+  {
+    "customer_id":"DD-13570",
+    "customer_name":"Dorothy Dickinson",
+    "sales":269.542,
+    "profit":36.4344,
+    "quantity":33,
+    "orders":6
+  },
+  {
+    "customer_id":"BN-11470",
+    "customer_name":"Brad Norvell",
+    "sales":265.296,
+    "profit":36.6131,
+    "quantity":15,
+    "orders":4
+  },
+  {
+    "customer_id":"AR-10510",
+    "customer_name":"Andrew Roberts",
+    "sales":264.864,
+    "profit":43.6695,
+    "quantity":33,
+    "orders":5
+  },
+  {
+    "customer_id":"HD-14785",
+    "customer_name":"Harold Dahlen",
+    "sales":251.36,
+    "profit":-135.876,
+    "quantity":31,
+    "orders":3
+  },
+  {
+    "customer_id":"SM-20005",
+    "customer_name":"Sally Matthias",
+    "sales":244.494,
+    "profit":-26.5927,
+    "quantity":26,
+    "orders":4
+  },
+  {
+    "customer_id":"PL-18925",
+    "customer_name":"Paul Lucas",
+    "sales":239.481,
+    "profit":-0.7527,
+    "quantity":29,
+    "orders":5
+  },
+  {
+    "customer_id":"GP-14740",
+    "customer_name":"Guy Phonely",
+    "sales":236.53,
+    "profit":31.8376,
+    "quantity":21,
+    "orders":2
+  },
+  {
+    "customer_id":"EM-14065",
+    "customer_name":"Erin Mull",
+    "sales":228.99,
+    "profit":40.1546,
+    "quantity":22,
+    "orders":4
+  },
+  {
+    "customer_id":"GT-14755",
+    "customer_name":"Guy Thornton",
+    "sales":226.436,
+    "profit":-6.1392,
+    "quantity":23,
+    "orders":4
+  },
+  {
+    "customer_id":"MK-19560",
+    "customer_name":"Michael Knudson",
+    "sales":225.696,
+    "profit":-74.1416,
+    "quantity":48,
+    "orders":7
+  },
+  {
+    "customer_id":"RB-19645",
+    "customer_name":"Robert Barroso",
+    "sales":221.084,
+    "profit":72.679,
+    "quantity":29,
+    "orders":5
+  },
+  {
+    "customer_id":"HH-15010",
+    "customer_name":"Hilary Holden",
+    "sales":218.668,
+    "profit":86.7342,
+    "quantity":20,
+    "orders":2
+  },
+  {
+    "customer_id":"AG-10390",
+    "customer_name":"Allen Goldenen",
+    "sales":200.945,
+    "profit":69.2784,
+    "quantity":33,
+    "orders":5
+  },
+  {
+    "customer_id":"JJ-15760",
+    "customer_name":"Joel Jenkins",
+    "sales":195.0,
+    "profit":34.4492,
+    "quantity":11,
+    "orders":2
+  },
+  {
+    "customer_id":"AG-10765",
+    "customer_name":"Anthony Garverick",
+    "sales":170.584,
+    "profit":-8.431,
+    "quantity":20,
+    "orders":4
+  },
+  {
+    "customer_id":"ML-18265",
+    "customer_name":"Muhammed Lee",
+    "sales":162.232,
+    "profit":42.6648,
+    "quantity":7,
+    "orders":2
+  },
+  {
+    "customer_id":"AO-10810",
+    "customer_name":"Anthony O'Donnell",
+    "sales":161.28,
+    "profit":12.096,
+    "quantity":2,
+    "orders":1
+  },
+  {
+    "customer_id":"PT-19090",
+    "customer_name":"Pete Takahito",
+    "sales":160.572,
+    "profit":-20.0508,
+    "quantity":19,
+    "orders":4
+  },
+  {
+    "customer_id":"DA-13450",
+    "customer_name":"Dianna Arnett",
+    "sales":156.76,
+    "profit":56.7904,
+    "quantity":27,
+    "orders":4
+  },
+  {
+    "customer_id":"MO-17950",
+    "customer_name":"Michael Oakman",
+    "sales":154.288,
+    "profit":-82.0074,
+    "quantity":14,
+    "orders":2
+  },
+  {
+    "customer_id":"GH-14665",
+    "customer_name":"Greg Hansen",
+    "sales":146.9408,
+    "profit":-5.8102,
+    "quantity":9,
+    "orders":2
+  },
+  {
+    "customer_id":"JT-12540",
+    "customer_name":"Jill Trafton",
+    "sales":144.588,
+    "profit":-197.6036,
+    "quantity":2,
+    "orders":2
+  },
+  {
+    "customer_id":"HO-15232",
+    "customer_name":"Harry Olson",
+    "sales":140.928,
+    "profit":45.8016,
+    "quantity":12,
+    "orders":2
+  },
+  {
+    "customer_id":"PB-19210",
+    "customer_name":"Phillip Breyer",
+    "sales":132.738,
+    "profit":21.897,
+    "quantity":10,
+    "orders":2
+  },
+  {
+    "customer_id":"BO-11425",
+    "customer_name":"Bobby Odegard",
+    "sales":130.83,
+    "profit":59.4522,
+    "quantity":7,
+    "orders":2
+  },
+  {
+    "customer_id":"EL-13735",
+    "customer_name":"Ed Ludwig",
+    "sales":124.28,
+    "profit":27.1154,
+    "quantity":9,
+    "orders":2
+  },
+  {
+    "customer_id":"CC-12550",
+    "customer_name":"Clay Cheatham",
+    "sales":113.832,
+    "profit":33.8706,
+    "quantity":14,
+    "orders":3
+  },
+  {
+    "customer_id":"RM-19750",
+    "customer_name":"Roland Murray",
+    "sales":98.35,
+    "profit":28.6879,
+    "quantity":4,
+    "orders":1
+  },
+  {
+    "customer_id":"KS-16300",
+    "customer_name":"Karen Seio",
+    "sales":88.472,
+    "profit":0.111,
+    "quantity":10,
+    "orders":3
+  },
+  {
+    "customer_id":"AR-10570",
+    "customer_name":"Anemone Ratner",
+    "sales":88.15,
+    "profit":32.633,
+    "quantity":6,
+    "orders":1
+  },
+  {
+    "customer_id":"FW-14395",
+    "customer_name":"Fred Wasserman",
+    "sales":79.75,
+    "profit":23.4913,
+    "quantity":9,
+    "orders":3
+  },
+  {
+    "customer_id":"JC-15340",
+    "customer_name":"Jasper Cacioppo",
+    "sales":71.263,
+    "profit":-0.3556,
+    "quantity":12,
+    "orders":4
+  },
+  {
+    "customer_id":"AS-10135",
+    "customer_name":"Adrian Shami",
+    "sales":58.82,
+    "profit":21.8496,
+    "quantity":9,
+    "orders":2
+  },
+  {
+    "customer_id":"LB-16735",
+    "customer_name":"Larry Blacks",
+    "sales":50.188,
+    "profit":18.6507,
+    "quantity":12,
+    "orders":3
+  },
+  {
+    "customer_id":"RE-19405",
+    "customer_name":"Ricardo Emerson",
+    "sales":48.36,
+    "profit":6.045,
+    "quantity":5,
+    "orders":1
+  },
+  {
+    "customer_id":"SG-20890",
+    "customer_name":"Susan Gilcrest",
+    "sales":47.946,
+    "profit":-3.7073,
+    "quantity":17,
+    "orders":3
+  },
+  {
+    "customer_id":"HO-15233",
+    "customer_name":"Harry Olson",
+    "sales":39.36,
+    "profit":13.776,
+    "quantity":10,
+    "orders":2
+  },
+  {
+    "customer_id":"RS-19870",
+    "customer_name":"Roy Skaria",
+    "sales":22.328,
+    "profit":9.5838,
+    "quantity":10,
+    "orders":2
+  },
+  {
+    "customer_id":"JS-13215",
+    "customer_name":"Jennifer Sheldon",
+    "sales":19.98,
+    "profit":8.991,
+    "quantity":2,
+    "orders":2
+  },
+  {
+    "customer_id":"MG-18205",
+    "customer_name":"Mitch Gastineau",
+    "sales":16.739,
+    "profit":-1.2453,
+    "quantity":8,
+    "orders":1
+  },
+  {
+    "customer_id":"CJ-11875",
+    "customer_name":"Carl Jackson",
+    "sales":16.52,
+    "profit":1.652,
+    "quantity":5,
+    "orders":1
+  },
+  {
+    "customer_id":"HO-15230",
+    "customer_name":"Harry Olson",
+    "sales":6.048,
+    "profit":-1.2096,
+    "quantity":6,
+    "orders":2
+  },
+  {
+    "customer_id":"LD-16855",
+    "customer_name":"Lela Donovan",
+    "sales":5.304,
+    "profit":0.4641,
+    "quantity":3,
+    "orders":1
+  },
+  {
+    "customer_id":"TS-21085",
+    "customer_name":"Thais Sissman",
+    "sales":4.833,
+    "profit":-3.3156,
+    "quantity":4,
+    "orders":2
+  }
+]
